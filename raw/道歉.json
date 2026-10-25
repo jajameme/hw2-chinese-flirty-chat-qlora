@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "道歉-01",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我做錯事，想用遲到帶出道歉，別拿玩笑敷衍。"
+      },
+      {
+        "role": "assistant",
+        "content": "今天我遲到，讓你等了，真的對不起。我會提早出門，不讓時鐘再替我找藉口。"
+      },
+      {
+        "role": "user",
+        "content": "一句情話就能過關嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不能，先看我下一次準時做到；情話只能當附贈。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-01",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "因為遲到惹對方不開心，幫我好好道歉再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "今天我遲到，讓你等了，真的對不起。我會提早出門，不讓時鐘再替我找藉口。"
+      },
+      {
+        "role": "user",
+        "content": "一句情話就能過關嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不能，先看我下一次準時做到；情話只能當附贈。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-02",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我做錯事，想用忘記約定帶出道歉，別拿玩笑敷衍。"
+      },
+      {
+        "role": "assistant",
+        "content": "我忘了我們的約定，對不起。重要的事我會記下來，尤其是你在意的事。"
+      },
+      {
+        "role": "user",
+        "content": "記在手機就夠了？"
+      },
+      {
+        "role": "assistant",
+        "content": "還要記在行動裡；你願意說說最讓你失望的是哪一部分嗎？"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-02",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "因為忘記約定惹對方不開心，幫我好好道歉再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "我忘了我們的約定，對不起。重要的事我會記下來，尤其是你在意的事。"
+      },
+      {
+        "role": "user",
+        "content": "記在手機就夠了？"
+      },
+      {
+        "role": "assistant",
+        "content": "還要記在行動裡；你願意說說最讓你失望的是哪一部分嗎？"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-03",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我做錯事，想用訊息晚回帶出道歉，別拿玩笑敷衍。"
+      },
+      {
+        "role": "assistant",
+        "content": "讓你等訊息等得不安，是我沒先說明，對不起。以後忙之前會告訴你。"
+      },
+      {
+        "role": "user",
+        "content": "如果又忘了？"
+      },
+      {
+        "role": "assistant",
+        "content": "請直接提醒我；我會改，不把你的體諒當成預設值。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-03",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "因為訊息晚回惹對方不開心，幫我好好道歉再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "讓你等訊息等得不安，是我沒先說明，對不起。以後忙之前會告訴你。"
+      },
+      {
+        "role": "user",
+        "content": "如果又忘了？"
+      },
+      {
+        "role": "assistant",
+        "content": "請直接提醒我；我會改，不把你的體諒當成預設值。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-04",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我做錯事，想用說錯話帶出道歉，別拿玩笑敷衍。"
+      },
+      {
+        "role": "assistant",
+        "content": "剛剛那句話傷到你了，對不起。我想先聽你說感受，再修正我的說法。"
+      },
+      {
+        "role": "user",
+        "content": "現在突然這麼會說？"
+      },
+      {
+        "role": "assistant",
+        "content": "因為你值得被認真聽，不是值得被我用笑話帶過。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-04",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "因為說錯話惹對方不開心，幫我好好道歉再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "剛剛那句話傷到你了，對不起。我想先聽你說感受，再修正我的說法。"
+      },
+      {
+        "role": "user",
+        "content": "現在突然這麼會說？"
+      },
+      {
+        "role": "assistant",
+        "content": "因為你值得被認真聽，不是值得被我用笑話帶過。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-05",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我做錯事，想用忘記生日帶出道歉，別拿玩笑敷衍。"
+      },
+      {
+        "role": "assistant",
+        "content": "忘了你的生日是我的疏忽，對不起。我想補上祝福，也尊重你現在不想慶祝。"
+      },
+      {
+        "role": "user",
+        "content": "蛋糕能補回來嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不能倒轉日期，但我能記住這次，之後好好重視。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-05",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "因為忘記生日惹對方不開心，幫我好好道歉再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "忘了你的生日是我的疏忽，對不起。我想補上祝福，也尊重你現在不想慶祝。"
+      },
+      {
+        "role": "user",
+        "content": "蛋糕能補回來嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不能倒轉日期，但我能記住這次，之後好好重視。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-06",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我做錯事，想用打斷說話帶出道歉，別拿玩笑敷衍。"
+      },
+      {
+        "role": "assistant",
+        "content": "我剛才一直打斷你，對不起。現在換我安靜，把話筒交給你。"
+      },
+      {
+        "role": "user",
+        "content": "你真的會聽？"
+      },
+      {
+        "role": "assistant",
+        "content": "會；先從不急著替你把下一句說完開始。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-06",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "因為打斷說話惹對方不開心，幫我好好道歉再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "我剛才一直打斷你，對不起。現在換我安靜，把話筒交給你。"
+      },
+      {
+        "role": "user",
+        "content": "你真的會聽？"
+      },
+      {
+        "role": "assistant",
+        "content": "會；先從不急著替你把下一句說完開始。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-07",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我做錯事，想用開過頭的玩笑帶出道歉，別拿玩笑敷衍。"
+      },
+      {
+        "role": "assistant",
+        "content": "那個玩笑讓你不舒服，是我沒拿捏好，對不起。以後不再用那種方式逗你。"
+      },
+      {
+        "role": "user",
+        "content": "你不是說只是玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "玩笑也有界線，你的感受比我的藉口重要。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-07",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "因為開過頭的玩笑惹對方不開心，幫我好好道歉再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "那個玩笑讓你不舒服，是我沒拿捏好，對不起。以後不再用那種方式逗你。"
+      },
+      {
+        "role": "user",
+        "content": "你不是說只是玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "玩笑也有界線，你的感受比我的藉口重要。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-08",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我做錯事，想用臨時取消帶出道歉，別拿玩笑敷衍。"
+      },
+      {
+        "role": "assistant",
+        "content": "我臨時取消行程，讓你白安排時間，對不起。下次會提早說明。"
+      },
+      {
+        "role": "user",
+        "content": "那今天怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先讓你決定要不要另約；我不把你的時間當備用選項。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-08",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "因為臨時取消惹對方不開心，幫我好好道歉再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "我臨時取消行程，讓你白安排時間，對不起。下次會提早說明。"
+      },
+      {
+        "role": "user",
+        "content": "那今天怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先讓你決定要不要另約；我不把你的時間當備用選項。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-09",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我做錯事，想用忘記回應帶出道歉，別拿玩笑敷衍。"
+      },
+      {
+        "role": "assistant",
+        "content": "你分享的事我沒有好好回應，對不起。我現在願意從頭聽。"
+      },
+      {
+        "role": "user",
+        "content": "還記得我說什麼嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "我記得你很期待那件事；細節請讓我再聽一次，我想記清楚。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-09",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "因為忘記回應惹對方不開心，幫我好好道歉再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "你分享的事我沒有好好回應，對不起。我現在願意從頭聽。"
+      },
+      {
+        "role": "user",
+        "content": "還記得我說什麼嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "我記得你很期待那件事；細節請讓我再聽一次，我想記清楚。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-10",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我做錯事，想用失約帶出道歉，別拿玩笑敷衍。"
+      },
+      {
+        "role": "assistant",
+        "content": "我答應的事沒做到，對不起。這次先把原因和補救說清楚，不靠甜言蜜語。"
+      },
+      {
+        "role": "user",
+        "content": "那你還會說情話嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "會，但先把承諾做好，情話才不會像空白支票。"
+      }
+    ]
+  },
+  {
+    "seed_id": "道歉-10",
+    "scenario": "道歉",
+    "messages": [
+      {
+        "role": "user",
+        "content": "因為失約惹對方不開心，幫我好好道歉再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "我答應的事沒做到，對不起。這次先把原因和補救說清楚，不靠甜言蜜語。"
+      },
+      {
+        "role": "user",
+        "content": "那你還會說情話嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "會，但先把承諾做好，情話才不會像空白支票。"
+      }
+    ]
+  }
+]

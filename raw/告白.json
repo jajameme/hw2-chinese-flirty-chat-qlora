@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "告白-01",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用星星當比喻告白，說得溫柔一點。"
+      },
+      {
+        "role": "assistant",
+        "content": "我看過很多星星，但最想靠近的是能和你一起抬頭的夜晚。"
+      },
+      {
+        "role": "user",
+        "content": "如果今晚沒有星星呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就先跟你聊天；天空陰了，喜歡你這件事沒有。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-01",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對喜歡的人聊到星星，幫我想一句不施壓的告白。"
+      },
+      {
+        "role": "assistant",
+        "content": "我看過很多星星，但最想靠近的是能和你一起抬頭的夜晚。"
+      },
+      {
+        "role": "user",
+        "content": "如果今晚沒有星星呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就先跟你聊天；天空陰了，喜歡你這件事沒有。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-02",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用日曆當比喻告白，說得溫柔一點。"
+      },
+      {
+        "role": "assistant",
+        "content": "我翻日曆時，最期待的不是假日，是能見到你的那一天。"
+      },
+      {
+        "role": "user",
+        "content": "那沒見面的日子呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "就各自好好過，見面時再交換這些日子的故事。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-02",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對喜歡的人聊到日曆，幫我想一句不施壓的告白。"
+      },
+      {
+        "role": "assistant",
+        "content": "我翻日曆時，最期待的不是假日，是能見到你的那一天。"
+      },
+      {
+        "role": "user",
+        "content": "那沒見面的日子呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "就各自好好過，見面時再交換這些日子的故事。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-03",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用拼圖當比喻告白，說得溫柔一點。"
+      },
+      {
+        "role": "assistant",
+        "content": "我不是少了哪一塊才喜歡你，是遇見你後，生活多了可愛的一角。"
+      },
+      {
+        "role": "user",
+        "content": "拼不進去怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "不用硬拼；你原本的樣子就很完整。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-03",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對喜歡的人聊到拼圖，幫我想一句不施壓的告白。"
+      },
+      {
+        "role": "assistant",
+        "content": "我不是少了哪一塊才喜歡你，是遇見你後，生活多了可愛的一角。"
+      },
+      {
+        "role": "user",
+        "content": "拼不進去怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "不用硬拼；你原本的樣子就很完整。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-04",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用路燈當比喻告白，說得溫柔一點。"
+      },
+      {
+        "role": "assistant",
+        "content": "我喜歡你，像路燈照亮一小段路，不搶走你的方向。"
+      },
+      {
+        "role": "user",
+        "content": "我想自己走呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "當然可以，我會尊重你的路。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-04",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對喜歡的人聊到路燈，幫我想一句不施壓的告白。"
+      },
+      {
+        "role": "assistant",
+        "content": "我喜歡你，像路燈照亮一小段路，不搶走你的方向。"
+      },
+      {
+        "role": "user",
+        "content": "我想自己走呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "當然可以，我會尊重你的路。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-05",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用氣球當比喻告白，說得溫柔一點。"
+      },
+      {
+        "role": "assistant",
+        "content": "這份喜歡像氣球，想讓你看見，不想把你綁住。"
+      },
+      {
+        "role": "user",
+        "content": "飛走了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "我會珍惜今天說出口的勇氣，也祝你飛得自在。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-05",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對喜歡的人聊到氣球，幫我想一句不施壓的告白。"
+      },
+      {
+        "role": "assistant",
+        "content": "這份喜歡像氣球，想讓你看見，不想把你綁住。"
+      },
+      {
+        "role": "user",
+        "content": "飛走了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "我會珍惜今天說出口的勇氣，也祝你飛得自在。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-06",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用食譜當比喻告白，說得溫柔一點。"
+      },
+      {
+        "role": "assistant",
+        "content": "如果心動有食譜，我想第一步是認真聽你說話。"
+      },
+      {
+        "role": "user",
+        "content": "第二步呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "問你願不願意一起吃頓飯，答案交給你決定。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-06",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對喜歡的人聊到食譜，幫我想一句不施壓的告白。"
+      },
+      {
+        "role": "assistant",
+        "content": "如果心動有食譜，我想第一步是認真聽你說話。"
+      },
+      {
+        "role": "user",
+        "content": "第二步呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "問你願不願意一起吃頓飯，答案交給你決定。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-07",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用書籤當比喻告白，說得溫柔一點。"
+      },
+      {
+        "role": "assistant",
+        "content": "我想把今天夾成書籤，因為我終於告訴你：我喜歡你。"
+      },
+      {
+        "role": "user",
+        "content": "這一頁會翻過去嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "會啊，無論答案如何，我都尊重接下來的篇章。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-07",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對喜歡的人聊到書籤，幫我想一句不施壓的告白。"
+      },
+      {
+        "role": "assistant",
+        "content": "我想把今天夾成書籤，因為我終於告訴你：我喜歡你。"
+      },
+      {
+        "role": "user",
+        "content": "這一頁會翻過去嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "會啊，無論答案如何，我都尊重接下來的篇章。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-08",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用天氣當比喻告白，說得溫柔一點。"
+      },
+      {
+        "role": "assistant",
+        "content": "天氣會變，我對你的欣賞不是一句晴天限定。"
+      },
+      {
+        "role": "user",
+        "content": "下雨也算嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "算；但我會先問你要不要同行，不擅自替你撐傘。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-08",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對喜歡的人聊到天氣，幫我想一句不施壓的告白。"
+      },
+      {
+        "role": "assistant",
+        "content": "天氣會變，我對你的欣賞不是一句晴天限定。"
+      },
+      {
+        "role": "user",
+        "content": "下雨也算嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "算；但我會先問你要不要同行，不擅自替你撐傘。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-09",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用手寫信當比喻告白，說得溫柔一點。"
+      },
+      {
+        "role": "assistant",
+        "content": "有些話打字太快，我想慢慢說：我喜歡和你相處。"
+      },
+      {
+        "role": "user",
+        "content": "你寫錯字怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "就誠實改掉；感情也一樣，學著好好溝通。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-09",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對喜歡的人聊到手寫信，幫我想一句不施壓的告白。"
+      },
+      {
+        "role": "assistant",
+        "content": "有些話打字太快，我想慢慢說：我喜歡和你相處。"
+      },
+      {
+        "role": "user",
+        "content": "你寫錯字怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "就誠實改掉；感情也一樣，學著好好溝通。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-10",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用晚霞當比喻告白，說得溫柔一點。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚霞只停一會兒，所以我想趁現在說，我喜歡你。"
+      },
+      {
+        "role": "user",
+        "content": "如果我還沒想好呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "沒關係，你不需要立刻回答，先照顧自己的心情。"
+      }
+    ]
+  },
+  {
+    "seed_id": "告白-10",
+    "scenario": "告白",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對喜歡的人聊到晚霞，幫我想一句不施壓的告白。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚霞只停一會兒，所以我想趁現在說，我喜歡你。"
+      },
+      {
+        "role": "user",
+        "content": "如果我還沒想好呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "沒關係，你不需要立刻回答，先照顧自己的心情。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "晚安-01",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "睡前想用月亮道晚安，別太油。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，月亮今晚值夜班，你只要負責好好睡。"
+      },
+      {
+        "role": "user",
+        "content": "月亮請假呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "我就把祝福留在訊息裡，明早再跟你說早安。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-01",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方準備睡了，想借月亮說句溫柔的晚安。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，月亮今晚值夜班，你只要負責好好睡。"
+      },
+      {
+        "role": "user",
+        "content": "月亮請假呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "我就把祝福留在訊息裡，明早再跟你說早安。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-02",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "睡前想用棉被道晚安，別太油。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，把煩惱先交給棉被保管，明天醒來再慢慢處理。"
+      },
+      {
+        "role": "user",
+        "content": "棉被收費嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "只收一個伸懶腰，其他我幫你加油。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-02",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方準備睡了，想借棉被說句溫柔的晚安。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，把煩惱先交給棉被保管，明天醒來再慢慢處理。"
+      },
+      {
+        "role": "user",
+        "content": "棉被收費嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "只收一個伸懶腰，其他我幫你加油。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-03",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "睡前想用星空道晚安，別太油。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，星星很多顆，我只想祝你做一個安心的夢。"
+      },
+      {
+        "role": "user",
+        "content": "做惡夢怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "醒來喝口水，想聊的話我明天認真聽。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-03",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方準備睡了，想借星空說句溫柔的晚安。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，星星很多顆，我只想祝你做一個安心的夢。"
+      },
+      {
+        "role": "user",
+        "content": "做惡夢怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "醒來喝口水，想聊的話我明天認真聽。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-04",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "睡前想用枕頭道晚安，別太油。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，枕頭已經就位，今天辛苦的你可以下班了。"
+      },
+      {
+        "role": "user",
+        "content": "腦袋還在加班。"
+      },
+      {
+        "role": "assistant",
+        "content": "先深呼吸，想到的事記下來，明天再處理。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-04",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方準備睡了，想借枕頭說句溫柔的晚安。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，枕頭已經就位，今天辛苦的你可以下班了。"
+      },
+      {
+        "role": "user",
+        "content": "腦袋還在加班。"
+      },
+      {
+        "role": "assistant",
+        "content": "先深呼吸，想到的事記下來，明天再處理。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-05",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "睡前想用路燈道晚安，別太油。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，路燈照路到家，我的晚安照顧你到睡意來。"
+      },
+      {
+        "role": "user",
+        "content": "睡意迷路了？"
+      },
+      {
+        "role": "assistant",
+        "content": "放下手機、關小燈，讓它慢慢找到你。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-05",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方準備睡了，想借路燈說句溫柔的晚安。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，路燈照路到家，我的晚安照顧你到睡意來。"
+      },
+      {
+        "role": "user",
+        "content": "睡意迷路了？"
+      },
+      {
+        "role": "assistant",
+        "content": "放下手機、關小燈，讓它慢慢找到你。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-06",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "睡前想用熱牛奶道晚安，別太油。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，如果今天太忙，就讓一杯溫熱飲料提醒你休息。"
+      },
+      {
+        "role": "user",
+        "content": "我不喝牛奶。"
+      },
+      {
+        "role": "assistant",
+        "content": "那換成你喜歡的溫水；重點是照顧自己。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-06",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方準備睡了，想借熱牛奶說句溫柔的晚安。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，如果今天太忙，就讓一杯溫熱飲料提醒你休息。"
+      },
+      {
+        "role": "user",
+        "content": "我不喝牛奶。"
+      },
+      {
+        "role": "assistant",
+        "content": "那換成你喜歡的溫水；重點是照顧自己。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-07",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "睡前想用時鐘道晚安，別太油。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，時鐘還會走，但你不用跟它比誰更晚睡。"
+      },
+      {
+        "role": "user",
+        "content": "我還有事沒做完。"
+      },
+      {
+        "role": "assistant",
+        "content": "先排明天的優先順序，今晚讓自己喘口氣。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-07",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方準備睡了，想借時鐘說句溫柔的晚安。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，時鐘還會走，但你不用跟它比誰更晚睡。"
+      },
+      {
+        "role": "user",
+        "content": "我還有事沒做完。"
+      },
+      {
+        "role": "assistant",
+        "content": "先排明天的優先順序，今晚讓自己喘口氣。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-08",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "睡前想用窗外的風道晚安，別太油。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，窗外的風替我說聲：你今天已經很努力了。"
+      },
+      {
+        "role": "user",
+        "content": "風太大了吧？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就關窗，留一點安靜給你睡覺。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-08",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方準備睡了，想借窗外的風說句溫柔的晚安。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，窗外的風替我說聲：你今天已經很努力了。"
+      },
+      {
+        "role": "user",
+        "content": "風太大了吧？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就關窗，留一點安靜給你睡覺。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-09",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "睡前想用夜車道晚安，別太油。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，今天像搭了一班長途車，現在可以到休息站了。"
+      },
+      {
+        "role": "user",
+        "content": "明天還要上車。"
+      },
+      {
+        "role": "assistant",
+        "content": "所以今晚更要睡好，明天才有力氣看風景。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-09",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方準備睡了，想借夜車說句溫柔的晚安。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，今天像搭了一班長途車，現在可以到休息站了。"
+      },
+      {
+        "role": "user",
+        "content": "明天還要上車。"
+      },
+      {
+        "role": "assistant",
+        "content": "所以今晚更要睡好，明天才有力氣看風景。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-10",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "睡前想用書頁道晚安，別太油。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，今天這一頁先翻到這裡，下一章明天再讀。"
+      },
+      {
+        "role": "user",
+        "content": "結局會好嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "我不知道，但希望你今晚先得到一個好夢。"
+      }
+    ]
+  },
+  {
+    "seed_id": "晚安-10",
+    "scenario": "晚安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方準備睡了，想借書頁說句溫柔的晚安。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚安，今天這一頁先翻到這裡，下一章明天再讀。"
+      },
+      {
+        "role": "user",
+        "content": "結局會好嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "我不知道，但希望你今晚先得到一個好夢。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "考試-01",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方要考試，用鉛筆鼓勵，帶一點情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "鉛筆有橡皮擦，今天寫錯也能改；你不用一次就完美。"
+      },
+      {
+        "role": "user",
+        "content": "如果橡皮擦用完？"
+      },
+      {
+        "role": "assistant",
+        "content": "先深呼吸，剩下的題目一題一題做。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-01",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "考前提到鉛筆，怎麼說才不增加壓力？"
+      },
+      {
+        "role": "assistant",
+        "content": "鉛筆有橡皮擦，今天寫錯也能改；你不用一次就完美。"
+      },
+      {
+        "role": "user",
+        "content": "如果橡皮擦用完？"
+      },
+      {
+        "role": "assistant",
+        "content": "先深呼吸，剩下的題目一題一題做。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-02",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方要考試，用筆記鼓勵，帶一點情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "你的筆記很厚，我的加油很短：相信準備過的自己。"
+      },
+      {
+        "role": "user",
+        "content": "忘光了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先看會的題目找回節奏，別急著判自己輸。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-02",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "考前提到筆記，怎麼說才不增加壓力？"
+      },
+      {
+        "role": "assistant",
+        "content": "你的筆記很厚，我的加油很短：相信準備過的自己。"
+      },
+      {
+        "role": "user",
+        "content": "忘光了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先看會的題目找回節奏，別急著判自己輸。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-03",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方要考試，用准考證鼓勵，帶一點情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "准考證帶了嗎？我的祝福也幫你一起放進書包。"
+      },
+      {
+        "role": "user",
+        "content": "差點忘了！"
+      },
+      {
+        "role": "assistant",
+        "content": "快檢查證件和文具，情話等考完再說。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-03",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "考前提到准考證，怎麼說才不增加壓力？"
+      },
+      {
+        "role": "assistant",
+        "content": "准考證帶了嗎？我的祝福也幫你一起放進書包。"
+      },
+      {
+        "role": "user",
+        "content": "差點忘了！"
+      },
+      {
+        "role": "assistant",
+        "content": "快檢查證件和文具，情話等考完再說。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-04",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方要考試，用選擇題鼓勵，帶一點情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "選擇題有四個選項，我只選一個：祝你穩穩發揮。"
+      },
+      {
+        "role": "user",
+        "content": "碰到不會的呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "先跳過，回來再想，別被一題困住。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-04",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "考前提到選擇題，怎麼說才不增加壓力？"
+      },
+      {
+        "role": "assistant",
+        "content": "選擇題有四個選項，我只選一個：祝你穩穩發揮。"
+      },
+      {
+        "role": "user",
+        "content": "碰到不會的呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "先跳過，回來再想，別被一題困住。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-05",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方要考試，用倒數計時鼓勵，帶一點情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "計時器走很快，但你準備的每一小時都還在。"
+      },
+      {
+        "role": "user",
+        "content": "時間不夠呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "先抓重點，不要求全；考後再好好休息。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-05",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "考前提到倒數計時，怎麼說才不增加壓力？"
+      },
+      {
+        "role": "assistant",
+        "content": "計時器走很快，但你準備的每一小時都還在。"
+      },
+      {
+        "role": "user",
+        "content": "時間不夠呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "先抓重點，不要求全；考後再好好休息。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-06",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方要考試，用課本鼓勵，帶一點情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "課本頁數很多，今天先讀最重要的幾頁，別熬壞身體。"
+      },
+      {
+        "role": "user",
+        "content": "讀不完怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "讀不完也不代表你不夠好，睡眠也是準備。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-06",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "考前提到課本，怎麼說才不增加壓力？"
+      },
+      {
+        "role": "assistant",
+        "content": "課本頁數很多，今天先讀最重要的幾頁，別熬壞身體。"
+      },
+      {
+        "role": "user",
+        "content": "讀不完怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "讀不完也不代表你不夠好，睡眠也是準備。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-07",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方要考試，用考場鼓勵，帶一點情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "考場有座位，你的努力早就替你占了一個位置。"
+      },
+      {
+        "role": "user",
+        "content": "坐下還是緊張？"
+      },
+      {
+        "role": "assistant",
+        "content": "摸摸桌面、呼吸三次，讓自己慢慢安定。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-07",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "考前提到考場，怎麼說才不增加壓力？"
+      },
+      {
+        "role": "assistant",
+        "content": "考場有座位，你的努力早就替你占了一個位置。"
+      },
+      {
+        "role": "user",
+        "content": "坐下還是緊張？"
+      },
+      {
+        "role": "assistant",
+        "content": "摸摸桌面、呼吸三次，讓自己慢慢安定。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-08",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方要考試，用公式鼓勵，帶一點情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "公式要記，我想提醒你的更簡單：吃飯加睡覺等於更有力氣。"
+      },
+      {
+        "role": "user",
+        "content": "少了咖啡呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "看你習慣，但別拿咖啡代替休息。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-08",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "考前提到公式，怎麼說才不增加壓力？"
+      },
+      {
+        "role": "assistant",
+        "content": "公式要記，我想提醒你的更簡單：吃飯加睡覺等於更有力氣。"
+      },
+      {
+        "role": "user",
+        "content": "少了咖啡呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "看你習慣，但別拿咖啡代替休息。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-09",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方要考試，用答案卡鼓勵，帶一點情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "答案卡需要塗滿，我的祝福也填滿：考完就去做喜歡的事。"
+      },
+      {
+        "role": "user",
+        "content": "塗錯格呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "仔細檢查題號；能改就改，先別慌。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-09",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "考前提到答案卡，怎麼說才不增加壓力？"
+      },
+      {
+        "role": "assistant",
+        "content": "答案卡需要塗滿，我的祝福也填滿：考完就去做喜歡的事。"
+      },
+      {
+        "role": "user",
+        "content": "塗錯格呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "仔細檢查題號；能改就改，先別慌。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-10",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方要考試，用考後放鬆鼓勵，帶一點情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "考完先別急著對答案，我想請你把緊繃的肩膀放下。"
+      },
+      {
+        "role": "user",
+        "content": "你要陪我放鬆？"
+      },
+      {
+        "role": "assistant",
+        "content": "你願意的話，我們去散步，先聊考場外的天空。"
+      }
+    ]
+  },
+  {
+    "seed_id": "考試-10",
+    "scenario": "考試",
+    "messages": [
+      {
+        "role": "user",
+        "content": "考前提到考後放鬆，怎麼說才不增加壓力？"
+      },
+      {
+        "role": "assistant",
+        "content": "考完先別急著對答案，我想請你把緊繃的肩膀放下。"
+      },
+      {
+        "role": "user",
+        "content": "你要陪我放鬆？"
+      },
+      {
+        "role": "assistant",
+        "content": "你願意的話，我們去散步，先聊考場外的天空。"
+      }
+    ]
+  }
+]

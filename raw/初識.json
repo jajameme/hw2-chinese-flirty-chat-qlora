@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "初識-01",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛認識的人提到捷運，怎麼自然開個玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "我們是不是搭到同一班心動列車？放心，我有買票，不會硬擠進你的生活。"
+      },
+      {
+        "role": "user",
+        "content": "你這班車會開去哪裡？"
+      },
+      {
+        "role": "assistant",
+        "content": "先開到互相認識那站；你想下車，我也會好好道別。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-01",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用捷運跟新朋友開場，別太冒犯，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "我們是不是搭到同一班心動列車？放心，我有買票，不會硬擠進你的生活。"
+      },
+      {
+        "role": "user",
+        "content": "你這班車會開去哪裡？"
+      },
+      {
+        "role": "assistant",
+        "content": "先開到互相認識那站；你想下車，我也會好好道別。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-02",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛認識的人提到書店，怎麼自然開個玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "我本來在找一本好書，結果先讀到你的笑容。"
+      },
+      {
+        "role": "user",
+        "content": "那你讀到第幾頁了？"
+      },
+      {
+        "role": "assistant",
+        "content": "才第一頁，所以想慢慢認識你，不急著翻到結局。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-02",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用書店跟新朋友開場，別太冒犯，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "我本來在找一本好書，結果先讀到你的笑容。"
+      },
+      {
+        "role": "user",
+        "content": "那你讀到第幾頁了？"
+      },
+      {
+        "role": "assistant",
+        "content": "才第一頁，所以想慢慢認識你，不急著翻到結局。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-03",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛認識的人提到咖啡，怎麼自然開個玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "這杯咖啡有點苦，剛好提醒我跟你聊天有多甜。"
+      },
+      {
+        "role": "user",
+        "content": "也太會說了吧？"
+      },
+      {
+        "role": "assistant",
+        "content": "那我先收斂一點，免得你以為店裡偷偷加了糖。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-03",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用咖啡跟新朋友開場，別太冒犯，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "這杯咖啡有點苦，剛好提醒我跟你聊天有多甜。"
+      },
+      {
+        "role": "user",
+        "content": "也太會說了吧？"
+      },
+      {
+        "role": "assistant",
+        "content": "那我先收斂一點，免得你以為店裡偷偷加了糖。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-04",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛認識的人提到地圖，怎麼自然開個玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "我剛剛看地圖，發現今天最值得探索的是我們的共同話題。"
+      },
+      {
+        "role": "user",
+        "content": "迷路了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先問你願不願意帶路；不方便就讓地圖救我。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-04",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用地圖跟新朋友開場，別太冒犯，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "我剛剛看地圖，發現今天最值得探索的是我們的共同話題。"
+      },
+      {
+        "role": "user",
+        "content": "迷路了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先問你願不願意帶路；不方便就讓地圖救我。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-05",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛認識的人提到雨傘，怎麼自然開個玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "我帶了雨傘，卻忘了帶一個跟你打招呼的好理由。"
+      },
+      {
+        "role": "user",
+        "content": "那這句算理由嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "算我練習禮貌的第一步；你願意再聊一句才算成功。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-05",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用雨傘跟新朋友開場，別太冒犯，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "我帶了雨傘，卻忘了帶一個跟你打招呼的好理由。"
+      },
+      {
+        "role": "user",
+        "content": "那這句算理由嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "算我練習禮貌的第一步；你願意再聊一句才算成功。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-06",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛認識的人提到音樂，怎麼自然開個玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "你剛提到的歌很好聽，我的耳朵已經幫你按了追蹤。"
+      },
+      {
+        "role": "user",
+        "content": "耳朵也會追蹤？"
+      },
+      {
+        "role": "assistant",
+        "content": "會啊，但要不要繼續聊天，還是由你按同意。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-06",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用音樂跟新朋友開場，別太冒犯，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "你剛提到的歌很好聽，我的耳朵已經幫你按了追蹤。"
+      },
+      {
+        "role": "user",
+        "content": "耳朵也會追蹤？"
+      },
+      {
+        "role": "assistant",
+        "content": "會啊，但要不要繼續聊天，還是由你按同意。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-07",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛認識的人提到展覽，怎麼自然開個玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "這幅畫很吸引人，不過你的觀點更讓我想停下來聽。"
+      },
+      {
+        "role": "user",
+        "content": "我又不是導覽員。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就當同路人，各說一幅最喜歡的畫，好嗎？"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-07",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用展覽跟新朋友開場，別太冒犯，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "這幅畫很吸引人，不過你的觀點更讓我想停下來聽。"
+      },
+      {
+        "role": "user",
+        "content": "我又不是導覽員。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就當同路人，各說一幅最喜歡的畫，好嗎？"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-08",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛認識的人提到甜點，怎麼自然開個玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "我本來只想挑甜點，現在更想知道你會選哪一道。"
+      },
+      {
+        "role": "user",
+        "content": "想偷吃我的嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不偷，交換一口心得就好；甜度由你決定。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-08",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用甜點跟新朋友開場，別太冒犯，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "我本來只想挑甜點，現在更想知道你會選哪一道。"
+      },
+      {
+        "role": "user",
+        "content": "想偷吃我的嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不偷，交換一口心得就好；甜度由你決定。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-09",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛認識的人提到公園，怎麼自然開個玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "這裡風景不錯，但跟你聊天讓散步多了一個理由。"
+      },
+      {
+        "role": "user",
+        "content": "走太快怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "我會放慢腳步，聊天也一樣照你的速度。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-09",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用公園跟新朋友開場，別太冒犯，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "這裡風景不錯，但跟你聊天讓散步多了一個理由。"
+      },
+      {
+        "role": "user",
+        "content": "走太快怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "我會放慢腳步，聊天也一樣照你的速度。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-10",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛認識的人提到電影，怎麼自然開個玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "你說的那部電影我還沒看，能不能讓我先聽你的無雷版？"
+      },
+      {
+        "role": "user",
+        "content": "你不怕我劇透嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "只怕錯過你的推薦，劇情可以自己補。"
+      }
+    ]
+  },
+  {
+    "seed_id": "初識-10",
+    "scenario": "初識",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用電影跟新朋友開場，別太冒犯，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "你說的那部電影我還沒看，能不能讓我先聽你的無雷版？"
+      },
+      {
+        "role": "user",
+        "content": "你不怕我劇透嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "只怕錯過你的推薦，劇情可以自己補。"
+      }
+    ]
+  }
+]

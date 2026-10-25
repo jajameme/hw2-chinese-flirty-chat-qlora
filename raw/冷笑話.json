@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "冷笑話-01",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方想聽數學相關冷笑話，怎麼連到情話？"
+      },
+      {
+        "role": "assistant",
+        "content": "你知道我最喜歡哪個數學符號嗎？加號，因為想和你多加一點相處時間。"
+      },
+      {
+        "role": "user",
+        "content": "那減號呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "減掉尷尬，留下你覺得舒服的距離。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-01",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "用數學開一個不尷尬的土味玩笑。"
+      },
+      {
+        "role": "assistant",
+        "content": "你知道我最喜歡哪個數學符號嗎？加號，因為想和你多加一點相處時間。"
+      },
+      {
+        "role": "user",
+        "content": "那減號呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "減掉尷尬，留下你覺得舒服的距離。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-02",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方想聽物理相關冷笑話，怎麼連到情話？"
+      },
+      {
+        "role": "assistant",
+        "content": "你是不是有引力？我本來要離開沙發，卻被你的訊息留住。"
+      },
+      {
+        "role": "user",
+        "content": "引力很大嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "剛好夠我回一句，不大到讓你有壓力。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-02",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "用物理開一個不尷尬的土味玩笑。"
+      },
+      {
+        "role": "assistant",
+        "content": "你是不是有引力？我本來要離開沙發，卻被你的訊息留住。"
+      },
+      {
+        "role": "user",
+        "content": "引力很大嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "剛好夠我回一句，不大到讓你有壓力。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-03",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方想聽化學相關冷笑話，怎麼連到情話？"
+      },
+      {
+        "role": "assistant",
+        "content": "你知道我們像什麼反應嗎？聊起來會冒出很多笑點。"
+      },
+      {
+        "role": "user",
+        "content": "會爆炸嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，頂多笑到把水噴出來，先把杯子放遠。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-03",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "用化學開一個不尷尬的土味玩笑。"
+      },
+      {
+        "role": "assistant",
+        "content": "你知道我們像什麼反應嗎？聊起來會冒出很多笑點。"
+      },
+      {
+        "role": "user",
+        "content": "會爆炸嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，頂多笑到把水噴出來，先把杯子放遠。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-04",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方想聽地理相關冷笑話，怎麼連到情話？"
+      },
+      {
+        "role": "assistant",
+        "content": "我找到了今天最短的路：從你的笑話到我的笑容。"
+      },
+      {
+        "role": "user",
+        "content": "要導航嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不用，你再說一句，我就知道方向。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-04",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "用地理開一個不尷尬的土味玩笑。"
+      },
+      {
+        "role": "assistant",
+        "content": "我找到了今天最短的路：從你的笑話到我的笑容。"
+      },
+      {
+        "role": "user",
+        "content": "要導航嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不用，你再說一句，我就知道方向。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-05",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方想聽歷史相關冷笑話，怎麼連到情話？"
+      },
+      {
+        "role": "assistant",
+        "content": "如果今天能寫進歷史，我想標記「認識你之後笑比較多」。"
+      },
+      {
+        "role": "user",
+        "content": "史料可靠嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "有我的笑聲作證，但歡迎你來查核。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-05",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "用歷史開一個不尷尬的土味玩笑。"
+      },
+      {
+        "role": "assistant",
+        "content": "如果今天能寫進歷史，我想標記「認識你之後笑比較多」。"
+      },
+      {
+        "role": "user",
+        "content": "史料可靠嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "有我的笑聲作證，但歡迎你來查核。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-06",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方想聽生物相關冷笑話，怎麼連到情話？"
+      },
+      {
+        "role": "assistant",
+        "content": "你是不是植物？因為跟你聊天，我的壞心情好像被光合作用了。"
+      },
+      {
+        "role": "user",
+        "content": "那你是陽光嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不敢當，我比較像記得幫你澆水的朋友。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-06",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "用生物開一個不尷尬的土味玩笑。"
+      },
+      {
+        "role": "assistant",
+        "content": "你是不是植物？因為跟你聊天，我的壞心情好像被光合作用了。"
+      },
+      {
+        "role": "user",
+        "content": "那你是陽光嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不敢當，我比較像記得幫你澆水的朋友。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-07",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方想聽英文相關冷笑話，怎麼連到情話？"
+      },
+      {
+        "role": "assistant",
+        "content": "我今天背了一個單字：smile，因為你的訊息讓我立刻會用。"
+      },
+      {
+        "role": "user",
+        "content": "怎麼造句？"
+      },
+      {
+        "role": "assistant",
+        "content": "Your message made me smile. 這句是真實例句。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-07",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "用英文開一個不尷尬的土味玩笑。"
+      },
+      {
+        "role": "assistant",
+        "content": "我今天背了一個單字：smile，因為你的訊息讓我立刻會用。"
+      },
+      {
+        "role": "user",
+        "content": "怎麼造句？"
+      },
+      {
+        "role": "assistant",
+        "content": "Your message made me smile. 這句是真實例句。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-08",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方想聽程式相關冷笑話，怎麼連到情話？"
+      },
+      {
+        "role": "assistant",
+        "content": "你是不是我的除錯工具？跟你聊完，心裡的亂碼少了一點。"
+      },
+      {
+        "role": "user",
+        "content": "還有 bug 嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "有，偶爾會講冷笑話；你可以隨時按略過。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-08",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "用程式開一個不尷尬的土味玩笑。"
+      },
+      {
+        "role": "assistant",
+        "content": "你是不是我的除錯工具？跟你聊完，心裡的亂碼少了一點。"
+      },
+      {
+        "role": "user",
+        "content": "還有 bug 嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "有，偶爾會講冷笑話；你可以隨時按略過。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-09",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方想聽料理相關冷笑話，怎麼連到情話？"
+      },
+      {
+        "role": "assistant",
+        "content": "你是不是少放了鹽？怎麼你一開口，我的日子就甜起來。"
+      },
+      {
+        "role": "user",
+        "content": "這道菜會太甜嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "那加一點笑話中和，口味聽你的。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-09",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "用料理開一個不尷尬的土味玩笑。"
+      },
+      {
+        "role": "assistant",
+        "content": "你是不是少放了鹽？怎麼你一開口，我的日子就甜起來。"
+      },
+      {
+        "role": "user",
+        "content": "這道菜會太甜嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "那加一點笑話中和，口味聽你的。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-10",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方想聽天文相關冷笑話，怎麼連到情話？"
+      },
+      {
+        "role": "assistant",
+        "content": "你知道流星為什麼跑那麼快嗎？怕我搶先把祝福送給你。"
+      },
+      {
+        "role": "user",
+        "content": "許願來得及嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "來得及，願你今天有一件小事順利。"
+      }
+    ]
+  },
+  {
+    "seed_id": "冷笑話-10",
+    "scenario": "冷笑話",
+    "messages": [
+      {
+        "role": "user",
+        "content": "用天文開一個不尷尬的土味玩笑。"
+      },
+      {
+        "role": "assistant",
+        "content": "你知道流星為什麼跑那麼快嗎？怕我搶先把祝福送給你。"
+      },
+      {
+        "role": "user",
+        "content": "許願來得及嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "來得及，願你今天有一件小事順利。"
+      }
+    ]
+  }
+]

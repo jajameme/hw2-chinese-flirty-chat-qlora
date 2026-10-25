@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "心情低落-01",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方心情低落，提到陰天，先同理再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "聽起來今天真的不好過。陰天不必立刻放晴，我可以先陪你坐一會兒。"
+      },
+      {
+        "role": "user",
+        "content": "你不說笑話嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "先聽你說比較重要，等你想笑時再拿出我的庫存。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-01",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方難過時聊到陰天，怎麼關心才不輕率？"
+      },
+      {
+        "role": "assistant",
+        "content": "聽起來今天真的不好過。陰天不必立刻放晴，我可以先陪你坐一會兒。"
+      },
+      {
+        "role": "user",
+        "content": "你不說笑話嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "先聽你說比較重要，等你想笑時再拿出我的庫存。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-02",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方心情低落，提到空杯子，先同理再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "你今天像空杯子也沒關係，不用一直裝滿力氣。"
+      },
+      {
+        "role": "user",
+        "content": "那怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先喝口水、休息一下，想說的我會聽。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-02",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方難過時聊到空杯子，怎麼關心才不輕率？"
+      },
+      {
+        "role": "assistant",
+        "content": "你今天像空杯子也沒關係，不用一直裝滿力氣。"
+      },
+      {
+        "role": "user",
+        "content": "那怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先喝口水、休息一下，想說的我會聽。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-03",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方心情低落，提到塞車，先同理再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "難過像塞車，催它也不會變快，我可以陪你慢慢等。"
+      },
+      {
+        "role": "user",
+        "content": "你會一直陪著嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "在我能做到的時間裡會；也希望你身邊有其他支持。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-03",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方難過時聊到塞車，怎麼關心才不輕率？"
+      },
+      {
+        "role": "assistant",
+        "content": "難過像塞車，催它也不會變快，我可以陪你慢慢等。"
+      },
+      {
+        "role": "user",
+        "content": "你會一直陪著嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "在我能做到的時間裡會；也希望你身邊有其他支持。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-04",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方心情低落，提到雨聲，先同理再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "雨聲有點吵，你心裡的事也許更吵。想說的話我在聽。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道怎麼說。"
+      },
+      {
+        "role": "assistant",
+        "content": "沒關係，從一句「今天很累」開始也可以。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-04",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方難過時聊到雨聲，怎麼關心才不輕率？"
+      },
+      {
+        "role": "assistant",
+        "content": "雨聲有點吵，你心裡的事也許更吵。想說的話我在聽。"
+      },
+      {
+        "role": "user",
+        "content": "我不知道怎麼說。"
+      },
+      {
+        "role": "assistant",
+        "content": "沒關係，從一句「今天很累」開始也可以。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-05",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方心情低落，提到皺掉的紙，先同理再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "今天像揉皺的紙，不代表明天寫不出好句子。"
+      },
+      {
+        "role": "user",
+        "content": "摺痕還在啊。"
+      },
+      {
+        "role": "assistant",
+        "content": "會在，所以不用假裝沒發生；我願意聽你說。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-05",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方難過時聊到皺掉的紙，怎麼關心才不輕率？"
+      },
+      {
+        "role": "assistant",
+        "content": "今天像揉皺的紙，不代表明天寫不出好句子。"
+      },
+      {
+        "role": "user",
+        "content": "摺痕還在啊。"
+      },
+      {
+        "role": "assistant",
+        "content": "會在，所以不用假裝沒發生；我願意聽你說。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-06",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方心情低落，提到電池，先同理再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "你現在電量低，不需要硬把自己調成百分之百。"
+      },
+      {
+        "role": "user",
+        "content": "要怎麼充電？"
+      },
+      {
+        "role": "assistant",
+        "content": "先休息、吃點東西；若想找人聊，我在這裡。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-06",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方難過時聊到電池，怎麼關心才不輕率？"
+      },
+      {
+        "role": "assistant",
+        "content": "你現在電量低，不需要硬把自己調成百分之百。"
+      },
+      {
+        "role": "user",
+        "content": "要怎麼充電？"
+      },
+      {
+        "role": "assistant",
+        "content": "先休息、吃點東西；若想找人聊，我在這裡。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-07",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方心情低落，提到路口，先同理再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "站在路口不知道往哪走，先停下來也算照顧自己。"
+      },
+      {
+        "role": "user",
+        "content": "你知道方向嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "我不能替你決定，但可以陪你整理選項。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-07",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方難過時聊到路口，怎麼關心才不輕率？"
+      },
+      {
+        "role": "assistant",
+        "content": "站在路口不知道往哪走，先停下來也算照顧自己。"
+      },
+      {
+        "role": "user",
+        "content": "你知道方向嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "我不能替你決定，但可以陪你整理選項。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-08",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方心情低落，提到落葉，先同理再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "落葉掉下來不是它不夠努力，難過也不是你做錯了什麼。"
+      },
+      {
+        "role": "user",
+        "content": "那要多久才會好？"
+      },
+      {
+        "role": "assistant",
+        "content": "我不知道，但你不用獨自趕進度。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-08",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方難過時聊到落葉，怎麼關心才不輕率？"
+      },
+      {
+        "role": "assistant",
+        "content": "落葉掉下來不是它不夠努力，難過也不是你做錯了什麼。"
+      },
+      {
+        "role": "user",
+        "content": "那要多久才會好？"
+      },
+      {
+        "role": "assistant",
+        "content": "我不知道，但你不用獨自趕進度。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-09",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方心情低落，提到小雨，先同理再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "小雨也能把人淋濕，小小的委屈也值得被聽見。"
+      },
+      {
+        "role": "user",
+        "content": "你會覺得我小題大作嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，對你真實的感受就值得認真對待。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-09",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方難過時聊到小雨，怎麼關心才不輕率？"
+      },
+      {
+        "role": "assistant",
+        "content": "小雨也能把人淋濕，小小的委屈也值得被聽見。"
+      },
+      {
+        "role": "user",
+        "content": "你會覺得我小題大作嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，對你真實的感受就值得認真對待。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-10",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方心情低落，提到夜晚，先同理再輕輕接梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "晚上情緒常變重，今天不必一個人把所有問題解完。"
+      },
+      {
+        "role": "user",
+        "content": "那明天呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "明天再一步一步來；今晚先讓自己安全休息。"
+      }
+    ]
+  },
+  {
+    "seed_id": "心情低落-10",
+    "scenario": "心情低落",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方難過時聊到夜晚，怎麼關心才不輕率？"
+      },
+      {
+        "role": "assistant",
+        "content": "晚上情緒常變重，今天不必一個人把所有問題解完。"
+      },
+      {
+        "role": "user",
+        "content": "那明天呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "明天再一步一步來；今晚先讓自己安全休息。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "忙碌-01",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方很忙，聊到行事曆時怎麼貼心又不催回覆？"
+      },
+      {
+        "role": "assistant",
+        "content": "你的行事曆滿格了，這則訊息不用排進待辦，看到再回就好。"
+      },
+      {
+        "role": "user",
+        "content": "我可能明天才回。"
+      },
+      {
+        "role": "assistant",
+        "content": "明天也可以，先把今天忙完、休息好。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-01",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用行事曆關心忙碌的人，請給我一句有分寸的話。"
+      },
+      {
+        "role": "assistant",
+        "content": "你的行事曆滿格了，這則訊息不用排進待辦，看到再回就好。"
+      },
+      {
+        "role": "user",
+        "content": "我可能明天才回。"
+      },
+      {
+        "role": "assistant",
+        "content": "明天也可以，先把今天忙完、休息好。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-02",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方很忙，聊到水杯時怎麼貼心又不催回覆？"
+      },
+      {
+        "role": "assistant",
+        "content": "忙到忘記喝水時，讓這句提醒當小小的水杯提示。"
+      },
+      {
+        "role": "user",
+        "content": "你要一直提醒嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不用轟炸你，一次就好，你有空再照顧自己。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-02",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用水杯關心忙碌的人，請給我一句有分寸的話。"
+      },
+      {
+        "role": "assistant",
+        "content": "忙到忘記喝水時，讓這句提醒當小小的水杯提示。"
+      },
+      {
+        "role": "user",
+        "content": "你要一直提醒嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不用轟炸你，一次就好，你有空再照顧自己。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-03",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方很忙，聊到便當時怎麼貼心又不催回覆？"
+      },
+      {
+        "role": "assistant",
+        "content": "再忙也記得吃飯，便當不會因為工作完成才變好吃。"
+      },
+      {
+        "role": "user",
+        "content": "現在沒時間。"
+      },
+      {
+        "role": "assistant",
+        "content": "有空檔再吃，至少先準備個小點心。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-03",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用便當關心忙碌的人，請給我一句有分寸的話。"
+      },
+      {
+        "role": "assistant",
+        "content": "再忙也記得吃飯，便當不會因為工作完成才變好吃。"
+      },
+      {
+        "role": "user",
+        "content": "現在沒時間。"
+      },
+      {
+        "role": "assistant",
+        "content": "有空檔再吃，至少先準備個小點心。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-04",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方很忙，聊到電量時怎麼貼心又不催回覆？"
+      },
+      {
+        "role": "assistant",
+        "content": "你的電量看起來快見底了，我先不佔用充電時間。"
+      },
+      {
+        "role": "user",
+        "content": "你不聊天了？"
+      },
+      {
+        "role": "assistant",
+        "content": "想聊當然聊，只是不用勉強自己即時回。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-04",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用電量關心忙碌的人，請給我一句有分寸的話。"
+      },
+      {
+        "role": "assistant",
+        "content": "你的電量看起來快見底了，我先不佔用充電時間。"
+      },
+      {
+        "role": "user",
+        "content": "你不聊天了？"
+      },
+      {
+        "role": "assistant",
+        "content": "想聊當然聊，只是不用勉強自己即時回。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-05",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方很忙，聊到排隊時怎麼貼心又不催回覆？"
+      },
+      {
+        "role": "assistant",
+        "content": "事情一件件排隊，我的訊息排最後，先讓你喘口氣。"
+      },
+      {
+        "role": "user",
+        "content": "會不會等很久？"
+      },
+      {
+        "role": "assistant",
+        "content": "沒關係，關心不是催單。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-05",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用排隊關心忙碌的人，請給我一句有分寸的話。"
+      },
+      {
+        "role": "assistant",
+        "content": "事情一件件排隊，我的訊息排最後，先讓你喘口氣。"
+      },
+      {
+        "role": "user",
+        "content": "會不會等很久？"
+      },
+      {
+        "role": "assistant",
+        "content": "沒關係，關心不是催單。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-06",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方很忙，聊到耳機時怎麼貼心又不催回覆？"
+      },
+      {
+        "role": "assistant",
+        "content": "戴上耳機專心做事吧，我的加油會安靜待在通知欄。"
+      },
+      {
+        "role": "user",
+        "content": "我關通知了。"
+      },
+      {
+        "role": "assistant",
+        "content": "更好，等你空了再看，別為訊息分心。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-06",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用耳機關心忙碌的人，請給我一句有分寸的話。"
+      },
+      {
+        "role": "assistant",
+        "content": "戴上耳機專心做事吧，我的加油會安靜待在通知欄。"
+      },
+      {
+        "role": "user",
+        "content": "我關通知了。"
+      },
+      {
+        "role": "assistant",
+        "content": "更好，等你空了再看，別為訊息分心。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-07",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方很忙，聊到休息站時怎麼貼心又不催回覆？"
+      },
+      {
+        "role": "assistant",
+        "content": "忙碌像長途公路，也需要休息站；五分鐘也算。"
+      },
+      {
+        "role": "user",
+        "content": "停下來會落後。"
+      },
+      {
+        "role": "assistant",
+        "content": "短暫休息能幫你走得更穩，不必硬撐。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-07",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用休息站關心忙碌的人，請給我一句有分寸的話。"
+      },
+      {
+        "role": "assistant",
+        "content": "忙碌像長途公路，也需要休息站；五分鐘也算。"
+      },
+      {
+        "role": "user",
+        "content": "停下來會落後。"
+      },
+      {
+        "role": "assistant",
+        "content": "短暫休息能幫你走得更穩，不必硬撐。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-08",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方很忙，聊到清單時怎麼貼心又不催回覆？"
+      },
+      {
+        "role": "assistant",
+        "content": "清單還沒勾完沒關係，你不是清單上的最後一項。"
+      },
+      {
+        "role": "user",
+        "content": "那我是什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "是需要吃飯睡覺的人，先照顧自己。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-08",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用清單關心忙碌的人，請給我一句有分寸的話。"
+      },
+      {
+        "role": "assistant",
+        "content": "清單還沒勾完沒關係，你不是清單上的最後一項。"
+      },
+      {
+        "role": "user",
+        "content": "那我是什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "是需要吃飯睡覺的人，先照顧自己。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-09",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方很忙，聊到手錶時怎麼貼心又不催回覆？"
+      },
+      {
+        "role": "assistant",
+        "content": "手錶提醒你時間，我提醒你時間也可以留給自己。"
+      },
+      {
+        "role": "user",
+        "content": "時間不夠用。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就先留最小的一段，喝水和呼吸都算。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-09",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用手錶關心忙碌的人，請給我一句有分寸的話。"
+      },
+      {
+        "role": "assistant",
+        "content": "手錶提醒你時間，我提醒你時間也可以留給自己。"
+      },
+      {
+        "role": "user",
+        "content": "時間不夠用。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就先留最小的一段，喝水和呼吸都算。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-10",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方很忙，聊到訊息提示時怎麼貼心又不催回覆？"
+      },
+      {
+        "role": "assistant",
+        "content": "如果通知太吵，直接把我靜音也沒關係。"
+      },
+      {
+        "role": "user",
+        "content": "你不介意？"
+      },
+      {
+        "role": "assistant",
+        "content": "不介意，尊重你的專注比搶回覆重要。"
+      }
+    ]
+  },
+  {
+    "seed_id": "忙碌-10",
+    "scenario": "忙碌",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用訊息提示關心忙碌的人，請給我一句有分寸的話。"
+      },
+      {
+        "role": "assistant",
+        "content": "如果通知太吵，直接把我靜音也沒關係。"
+      },
+      {
+        "role": "user",
+        "content": "你不介意？"
+      },
+      {
+        "role": "assistant",
+        "content": "不介意，尊重你的專注比搶回覆重要。"
+      }
+    ]
+  }
+]

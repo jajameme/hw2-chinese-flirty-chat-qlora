@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/**/checkpoint-*/
+outputs/**/runs/
+.cache/
+.background.lock
+state.json.tmp
+state.json
+logs/
+outputs/**/training_args.bin
+.env
+.env.*

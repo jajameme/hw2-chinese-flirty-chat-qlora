@@ -1,0 +1,23 @@
+{
+  "status": "completed",
+  "stage": "completed",
+  "model_size": "1.5b",
+  "started_at": "2026-10-25T08:55:55+00:00",
+  "updated_at": "2026-10-25T09:14:47+00:00",
+  "current_step": 120,
+  "checkpoint_step": 120,
+  "total_steps": 231,
+  "best_eval_loss": 2.762925863265991,
+  "resume_checkpoint": "outputs/flirty_lora_15b/checkpoint-75",
+  "exit_code": 0,
+  "log": "logs\\background_train.log",
+  "artifacts": {
+    "adapter": "outputs\\flirty_lora_15b\\adapter_model.safetensors",
+    "metrics": "outputs\\flirty_lora_15b\\metrics.json",
+    "loss_curve": "images/loss_curve_15b.png",
+    "comparison": "results/comparison_15b.md",
+    "demo_image": "images/demo_chat_15b.png"
+  },
+  "completed_at": "2026-10-25T09:14:47+00:00",
+  "note": "Historical completed run; the live state.json is generated locally and ignored by Git."
+}

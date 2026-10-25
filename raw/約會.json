@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "約會-01",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "約會要聊菜單，給我一句輕鬆的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "我看了半天菜單，最想點的是和你多聊半小時。"
+      },
+      {
+        "role": "user",
+        "content": "那肚子餓怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先點你想吃的；浪漫不能讓你餓肚子。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-01",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們第一次約會可能會碰到菜單，怎麼接梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "我看了半天菜單，最想點的是和你多聊半小時。"
+      },
+      {
+        "role": "user",
+        "content": "那肚子餓怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先點你想吃的；浪漫不能讓你餓肚子。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-02",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "約會要聊迷路，給我一句輕鬆的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "跟你一起迷路也有趣，但我還是會先打開導航。"
+      },
+      {
+        "role": "user",
+        "content": "你不是說有趣？"
+      },
+      {
+        "role": "assistant",
+        "content": "有趣歸有趣，準時吃到晚餐更重要。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-02",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們第一次約會可能會碰到迷路，怎麼接梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "跟你一起迷路也有趣，但我還是會先打開導航。"
+      },
+      {
+        "role": "user",
+        "content": "你不是說有趣？"
+      },
+      {
+        "role": "assistant",
+        "content": "有趣歸有趣，準時吃到晚餐更重要。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-03",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "約會要聊摩天輪，給我一句輕鬆的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "摩天輪會轉一圈，我希望我們的聊天可以多轉幾圈。"
+      },
+      {
+        "role": "user",
+        "content": "會不會頭暈？"
+      },
+      {
+        "role": "assistant",
+        "content": "頭暈就停，去地面喝水，約會不用拚高度。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-03",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們第一次約會可能會碰到摩天輪，怎麼接梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "摩天輪會轉一圈，我希望我們的聊天可以多轉幾圈。"
+      },
+      {
+        "role": "user",
+        "content": "會不會頭暈？"
+      },
+      {
+        "role": "assistant",
+        "content": "頭暈就停，去地面喝水，約會不用拚高度。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-04",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "約會要聊餐巾紙，給我一句輕鬆的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "這張餐巾紙吸水很快，卻吸不走我見到你的緊張。"
+      },
+      {
+        "role": "user",
+        "content": "你在緊張什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "怕自己講冷笑話；如果太冷，你可以直接提醒我。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-04",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們第一次約會可能會碰到餐巾紙，怎麼接梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "這張餐巾紙吸水很快，卻吸不走我見到你的緊張。"
+      },
+      {
+        "role": "user",
+        "content": "你在緊張什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "怕自己講冷笑話；如果太冷，你可以直接提醒我。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-05",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "約會要聊電影院，給我一句輕鬆的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "電影有片尾彩蛋，我希望今天也有：下次再見。"
+      },
+      {
+        "role": "user",
+        "content": "彩蛋一定要看嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "完全不用；你覺得開心，我們再安排。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-05",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們第一次約會可能會碰到電影院，怎麼接梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "電影有片尾彩蛋，我希望今天也有：下次再見。"
+      },
+      {
+        "role": "user",
+        "content": "彩蛋一定要看嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "完全不用；你覺得開心，我們再安排。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-06",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "約會要聊公車站，給我一句輕鬆的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "等車有時很長，和你聊著聊著卻像快轉。"
+      },
+      {
+        "role": "user",
+        "content": "車來了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "先讓你安全上車，再傳訊息問你到家了沒。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-06",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們第一次約會可能會碰到公車站，怎麼接梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "等車有時很長，和你聊著聊著卻像快轉。"
+      },
+      {
+        "role": "user",
+        "content": "車來了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "先讓你安全上車，再傳訊息問你到家了沒。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-07",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "約會要聊海邊，給我一句輕鬆的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "海浪一直來，我想把這次約會的好心情帶回去。"
+      },
+      {
+        "role": "user",
+        "content": "海浪退了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "就留下沙灘上的腳印，不勉強浪永遠停在這裡。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-07",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們第一次約會可能會碰到海邊，怎麼接梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "海浪一直來，我想把這次約會的好心情帶回去。"
+      },
+      {
+        "role": "user",
+        "content": "海浪退了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "就留下沙灘上的腳印，不勉強浪永遠停在這裡。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-08",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "約會要聊拍照，給我一句輕鬆的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "照片可以留住今天，但我更想記住你剛剛笑的原因。"
+      },
+      {
+        "role": "user",
+        "content": "拍糊了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "沒關係，回憶不靠畫素，我們也可以重拍。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-08",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們第一次約會可能會碰到拍照，怎麼接梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "照片可以留住今天，但我更想記住你剛剛笑的原因。"
+      },
+      {
+        "role": "user",
+        "content": "拍糊了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "沒關係，回憶不靠畫素，我們也可以重拍。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-09",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "約會要聊甜甜圈，給我一句輕鬆的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "甜甜圈中間有洞，我的行程剛好留了空位給你的提議。"
+      },
+      {
+        "role": "user",
+        "content": "如果我想早點回家？"
+      },
+      {
+        "role": "assistant",
+        "content": "空位就留給休息，送你到方便的地方。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-09",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們第一次約會可能會碰到甜甜圈，怎麼接梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "甜甜圈中間有洞，我的行程剛好留了空位給你的提議。"
+      },
+      {
+        "role": "user",
+        "content": "如果我想早點回家？"
+      },
+      {
+        "role": "assistant",
+        "content": "空位就留給休息，送你到方便的地方。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-10",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "約會要聊夕陽，給我一句輕鬆的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "夕陽很美，但我喜歡的是你邊看邊說的那些小事。"
+      },
+      {
+        "role": "user",
+        "content": "說太多會吵嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會；如果想安靜，我也能陪你安靜看。"
+      }
+    ]
+  },
+  {
+    "seed_id": "約會-10",
+    "scenario": "約會",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們第一次約會可能會碰到夕陽，怎麼接梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "夕陽很美，但我喜歡的是你邊看邊說的那些小事。"
+      },
+      {
+        "role": "user",
+        "content": "說太多會吵嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會；如果想安靜，我也能陪你安靜看。"
+      }
+    ]
+  }
+]

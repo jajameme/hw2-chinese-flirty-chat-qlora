@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "被拒絕-01",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "告白被拒絕後提到紅燈，怎麼有風度地回應？"
+      },
+      {
+        "role": "assistant",
+        "content": "我懂了，感情的紅燈要停，不會硬闖。謝謝你坦白告訴我。"
+      },
+      {
+        "role": "user",
+        "content": "你不難過嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "會有點難過，但我會自己消化，不把壓力丟給你。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-01",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方說不想交往，我想到紅燈，給我一句尊重對方的回覆。"
+      },
+      {
+        "role": "assistant",
+        "content": "我懂了，感情的紅燈要停，不會硬闖。謝謝你坦白告訴我。"
+      },
+      {
+        "role": "user",
+        "content": "你不難過嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "會有點難過，但我會自己消化，不把壓力丟給你。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-02",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "告白被拒絕後提到書本，怎麼有風度地回應？"
+      },
+      {
+        "role": "assistant",
+        "content": "我們也許不是同一本故事的主角，仍謝謝你陪我讀過這一頁。"
+      },
+      {
+        "role": "user",
+        "content": "還能當朋友嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "先尊重你的意願，也給彼此一點空間。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-02",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方說不想交往，我想到書本，給我一句尊重對方的回覆。"
+      },
+      {
+        "role": "assistant",
+        "content": "我們也許不是同一本故事的主角，仍謝謝你陪我讀過這一頁。"
+      },
+      {
+        "role": "user",
+        "content": "還能當朋友嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "先尊重你的意願，也給彼此一點空間。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-03",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "告白被拒絕後提到地圖，怎麼有風度地回應？"
+      },
+      {
+        "role": "assistant",
+        "content": "這條路沒有通往交往，我會換個方向，不再要求你帶路。"
+      },
+      {
+        "role": "user",
+        "content": "你會一直等嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會讓等待變成負擔，我會照顧好自己的生活。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-03",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方說不想交往，我想到地圖，給我一句尊重對方的回覆。"
+      },
+      {
+        "role": "assistant",
+        "content": "這條路沒有通往交往，我會換個方向，不再要求你帶路。"
+      },
+      {
+        "role": "user",
+        "content": "你會一直等嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會讓等待變成負擔，我會照顧好自己的生活。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-04",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "告白被拒絕後提到電影票，怎麼有風度地回應？"
+      },
+      {
+        "role": "assistant",
+        "content": "這張戀愛電影票你不想收，我理解，不會再塞給你。"
+      },
+      {
+        "role": "user",
+        "content": "那票怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "我自己收好，去看一場讓自己放鬆的電影。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-04",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方說不想交往，我想到電影票，給我一句尊重對方的回覆。"
+      },
+      {
+        "role": "assistant",
+        "content": "這張戀愛電影票你不想收，我理解，不會再塞給你。"
+      },
+      {
+        "role": "user",
+        "content": "那票怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "我自己收好，去看一場讓自己放鬆的電影。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-05",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "告白被拒絕後提到雨傘，怎麼有風度地回應？"
+      },
+      {
+        "role": "assistant",
+        "content": "我想替你撐傘，但你說不用，我就把傘收好。"
+      },
+      {
+        "role": "user",
+        "content": "你生氣了嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "沒有，你能說清楚很好，我尊重你的選擇。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-05",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方說不想交往，我想到雨傘，給我一句尊重對方的回覆。"
+      },
+      {
+        "role": "assistant",
+        "content": "我想替你撐傘，但你說不用，我就把傘收好。"
+      },
+      {
+        "role": "user",
+        "content": "你生氣了嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "沒有，你能說清楚很好，我尊重你的選擇。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-06",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "告白被拒絕後提到拼圖，怎麼有風度地回應？"
+      },
+      {
+        "role": "assistant",
+        "content": "不是每塊拼圖都要拼在一起；謝謝你讓我知道你的答案。"
+      },
+      {
+        "role": "user",
+        "content": "那你會怪我嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，喜歡一個人也包含尊重不喜歡的權利。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-06",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方說不想交往，我想到拼圖，給我一句尊重對方的回覆。"
+      },
+      {
+        "role": "assistant",
+        "content": "不是每塊拼圖都要拼在一起；謝謝你讓我知道你的答案。"
+      },
+      {
+        "role": "user",
+        "content": "那你會怪我嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，喜歡一個人也包含尊重不喜歡的權利。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-07",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "告白被拒絕後提到車站，怎麼有風度地回應？"
+      },
+      {
+        "role": "assistant",
+        "content": "我們的車可能不同班，謝謝你曾在同一站和我說話。"
+      },
+      {
+        "role": "user",
+        "content": "你要追上來嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，我會搭自己的車，也祝你一路平安。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-07",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方說不想交往，我想到車站，給我一句尊重對方的回覆。"
+      },
+      {
+        "role": "assistant",
+        "content": "我們的車可能不同班，謝謝你曾在同一站和我說話。"
+      },
+      {
+        "role": "user",
+        "content": "你要追上來嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，我會搭自己的車，也祝你一路平安。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-08",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "告白被拒絕後提到選擇題，怎麼有風度地回應？"
+      },
+      {
+        "role": "assistant",
+        "content": "你的答案我收到了，不會再要求你重選。"
+      },
+      {
+        "role": "user",
+        "content": "你還想說什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "只想說謝謝你坦白，我會好好整理心情。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-08",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方說不想交往，我想到選擇題，給我一句尊重對方的回覆。"
+      },
+      {
+        "role": "assistant",
+        "content": "你的答案我收到了，不會再要求你重選。"
+      },
+      {
+        "role": "user",
+        "content": "你還想說什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "只想說謝謝你坦白，我會好好整理心情。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-09",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "告白被拒絕後提到花，怎麼有風度地回應？"
+      },
+      {
+        "role": "assistant",
+        "content": "花可以送出祝福，但不該換取答應。你的拒絕我尊重。"
+      },
+      {
+        "role": "user",
+        "content": "花要拿回去嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "你想怎麼處理都可以，我不附任何條件。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-09",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方說不想交往，我想到花，給我一句尊重對方的回覆。"
+      },
+      {
+        "role": "assistant",
+        "content": "花可以送出祝福，但不該換取答應。你的拒絕我尊重。"
+      },
+      {
+        "role": "user",
+        "content": "花要拿回去嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "你想怎麼處理都可以，我不附任何條件。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-10",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "告白被拒絕後提到告別，怎麼有風度地回應？"
+      },
+      {
+        "role": "assistant",
+        "content": "今天先把這份心意好好收起來，謝謝你認真回應。"
+      },
+      {
+        "role": "user",
+        "content": "以後遇見會尷尬嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "我會保持禮貌，也尊重你希望的距離。"
+      }
+    ]
+  },
+  {
+    "seed_id": "被拒絕-10",
+    "scenario": "被拒絕",
+    "messages": [
+      {
+        "role": "user",
+        "content": "對方說不想交往，我想到告別，給我一句尊重對方的回覆。"
+      },
+      {
+        "role": "assistant",
+        "content": "今天先把這份心意好好收起來，謝謝你認真回應。"
+      },
+      {
+        "role": "user",
+        "content": "以後遇見會尷尬嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "我會保持禮貌，也尊重你希望的距離。"
+      }
+    ]
+  }
+]

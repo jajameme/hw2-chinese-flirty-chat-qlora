@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "早安-01",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用鬧鐘說早安，給我一句可愛的。"
+      },
+      {
+        "role": "assistant",
+        "content": "早安！鬧鐘負責叫醒我，想到你負責讓我願意起床。"
+      },
+      {
+        "role": "user",
+        "content": "如果鬧鐘沒響呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "我就補一句遲到的早安，然後趕快出門。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-01",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "早上看到鬧鐘，怎麼傳訊息給喜歡的人？"
+      },
+      {
+        "role": "assistant",
+        "content": "早安！鬧鐘負責叫醒我，想到你負責讓我願意起床。"
+      },
+      {
+        "role": "user",
+        "content": "如果鬧鐘沒響呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "我就補一句遲到的早安，然後趕快出門。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-02",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用陽光說早安，給我一句可愛的。"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，今天的陽光很努力，我也想努力讓你笑一下。"
+      },
+      {
+        "role": "user",
+        "content": "陰天怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "陰天也送早安，亮度由我們慢慢調。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-02",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "早上看到陽光，怎麼傳訊息給喜歡的人？"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，今天的陽光很努力，我也想努力讓你笑一下。"
+      },
+      {
+        "role": "user",
+        "content": "陰天怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "陰天也送早安，亮度由我們慢慢調。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-03",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用早餐說早安，給我一句可愛的。"
+      },
+      {
+        "role": "assistant",
+        "content": "早安！早餐要吃，想你可以順便，但不能代替熱量。"
+      },
+      {
+        "role": "user",
+        "content": "你要請客嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "有機會我請你吃，今天先提醒你別空腹忙。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-03",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "早上看到早餐，怎麼傳訊息給喜歡的人？"
+      },
+      {
+        "role": "assistant",
+        "content": "早安！早餐要吃，想你可以順便，但不能代替熱量。"
+      },
+      {
+        "role": "user",
+        "content": "你要請客嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "有機會我請你吃，今天先提醒你別空腹忙。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-04",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用吐司說早安，給我一句可愛的。"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，吐司烤得剛剛好，希望你的心情也是。"
+      },
+      {
+        "role": "user",
+        "content": "烤焦了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "就重做一片，壞開頭不代表壞一天。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-04",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "早上看到吐司，怎麼傳訊息給喜歡的人？"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，吐司烤得剛剛好，希望你的心情也是。"
+      },
+      {
+        "role": "user",
+        "content": "烤焦了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "就重做一片，壞開頭不代表壞一天。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-05",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用咖啡香說早安，給我一句可愛的。"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，咖啡香把我叫醒，想到你把心情叫醒。"
+      },
+      {
+        "role": "user",
+        "content": "我不喝咖啡耶。"
+      },
+      {
+        "role": "assistant",
+        "content": "那換成你喜歡的飲料；早安不用固定配方。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-05",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "早上看到咖啡香，怎麼傳訊息給喜歡的人？"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，咖啡香把我叫醒，想到你把心情叫醒。"
+      },
+      {
+        "role": "user",
+        "content": "我不喝咖啡耶。"
+      },
+      {
+        "role": "assistant",
+        "content": "那換成你喜歡的飲料；早安不用固定配方。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-06",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用公車說早安，給我一句可愛的。"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，今天追公車可以，追你的回覆我會慢慢來。"
+      },
+      {
+        "role": "user",
+        "content": "公車跑掉了？"
+      },
+      {
+        "role": "assistant",
+        "content": "搭下一班，先把早餐吃完，別慌。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-06",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "早上看到公車，怎麼傳訊息給喜歡的人？"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，今天追公車可以，追你的回覆我會慢慢來。"
+      },
+      {
+        "role": "user",
+        "content": "公車跑掉了？"
+      },
+      {
+        "role": "assistant",
+        "content": "搭下一班，先把早餐吃完，別慌。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-07",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用雲朵說早安，給我一句可愛的。"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，雲朵像棉被，但你今天值得起床看看世界。"
+      },
+      {
+        "role": "user",
+        "content": "我還想睡。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就再睡五分鐘；祝你醒來時剛好舒服。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-07",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "早上看到雲朵，怎麼傳訊息給喜歡的人？"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，雲朵像棉被，但你今天值得起床看看世界。"
+      },
+      {
+        "role": "user",
+        "content": "我還想睡。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就再睡五分鐘；祝你醒來時剛好舒服。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-08",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用鞋帶說早安，給我一句可愛的。"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，出門前綁好鞋帶，也把一點好心情繫給你。"
+      },
+      {
+        "role": "user",
+        "content": "鞋帶散了？"
+      },
+      {
+        "role": "assistant",
+        "content": "停下來重綁，安全比趕路重要。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-08",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "早上看到鞋帶，怎麼傳訊息給喜歡的人？"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，出門前綁好鞋帶，也把一點好心情繫給你。"
+      },
+      {
+        "role": "user",
+        "content": "鞋帶散了？"
+      },
+      {
+        "role": "assistant",
+        "content": "停下來重綁，安全比趕路重要。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-09",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用日曆說早安，給我一句可愛的。"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，新的一格日曆，先寫上祝你今天順利。"
+      },
+      {
+        "role": "user",
+        "content": "如果不順呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "晚上再聊，我可以聽你把難事說完。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-09",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "早上看到日曆，怎麼傳訊息給喜歡的人？"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，新的一格日曆，先寫上祝你今天順利。"
+      },
+      {
+        "role": "user",
+        "content": "如果不順呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "晚上再聊，我可以聽你把難事說完。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-10",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想用窗簾說早安，給我一句可愛的。"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，拉開窗簾的瞬間，我想把一句加油送進你的今天。"
+      },
+      {
+        "role": "user",
+        "content": "我還沒拉窗簾。"
+      },
+      {
+        "role": "assistant",
+        "content": "不急，慢慢醒來；早安會在這裡等你。"
+      }
+    ]
+  },
+  {
+    "seed_id": "早安-10",
+    "scenario": "早安",
+    "messages": [
+      {
+        "role": "user",
+        "content": "早上看到窗簾，怎麼傳訊息給喜歡的人？"
+      },
+      {
+        "role": "assistant",
+        "content": "早安，拉開窗簾的瞬間，我想把一句加油送進你的今天。"
+      },
+      {
+        "role": "user",
+        "content": "我還沒拉窗簾。"
+      },
+      {
+        "role": "assistant",
+        "content": "不急，慢慢醒來；早安會在這裡等你。"
+      }
+    ]
+  }
+]

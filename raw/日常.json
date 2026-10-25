@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "日常-01",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "日常聊到洗衣機，給我一句小小的土味情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "洗衣機轉啊轉，我的好心情也被你的訊息轉起來了。"
+      },
+      {
+        "role": "user",
+        "content": "會不會暈？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，脫水結束記得晾衣服比較重要。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-01",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "看到洗衣機想到喜歡的人，怎麼開個溫柔的玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "洗衣機轉啊轉，我的好心情也被你的訊息轉起來了。"
+      },
+      {
+        "role": "user",
+        "content": "會不會暈？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，脫水結束記得晾衣服比較重要。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-02",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "日常聊到便利商店，給我一句小小的土味情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "便利商店二十四小時開門，我的關心不用你二十四小時回覆。"
+      },
+      {
+        "role": "user",
+        "content": "那現在能聊嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "你方便的話當然能，先說你今天過得如何。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-02",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "看到便利商店想到喜歡的人，怎麼開個溫柔的玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "便利商店二十四小時開門，我的關心不用你二十四小時回覆。"
+      },
+      {
+        "role": "user",
+        "content": "那現在能聊嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "你方便的話當然能，先說你今天過得如何。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-03",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "日常聊到盆栽，給我一句小小的土味情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "盆栽要澆水，我們的聊天也靠彼此一點點分享長大。"
+      },
+      {
+        "role": "user",
+        "content": "澆太多呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "會淹到，所以我先問你想不想聊。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-03",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "看到盆栽想到喜歡的人，怎麼開個溫柔的玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "盆栽要澆水，我們的聊天也靠彼此一點點分享長大。"
+      },
+      {
+        "role": "user",
+        "content": "澆太多呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "會淹到，所以我先問你想不想聊。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-04",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "日常聊到鑰匙，給我一句小小的土味情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "鑰匙能開門，你的笑話常把我的壞心情打開。"
+      },
+      {
+        "role": "user",
+        "content": "門壞了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先找鎖匠，情話修不好真的門。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-04",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "看到鑰匙想到喜歡的人，怎麼開個溫柔的玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "鑰匙能開門，你的笑話常把我的壞心情打開。"
+      },
+      {
+        "role": "user",
+        "content": "門壞了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先找鎖匠，情話修不好真的門。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-05",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "日常聊到冰箱，給我一句小小的土味情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "冰箱很冷，你一句早安卻讓今天暖了一格。"
+      },
+      {
+        "role": "user",
+        "content": "那冰淇淋會融化？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會啦，冰箱繼續工作，我負責微笑。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-05",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "看到冰箱想到喜歡的人，怎麼開個溫柔的玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "冰箱很冷，你一句早安卻讓今天暖了一格。"
+      },
+      {
+        "role": "user",
+        "content": "那冰淇淋會融化？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會啦，冰箱繼續工作，我負責微笑。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-06",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "日常聊到電梯，給我一句小小的土味情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "電梯往上時，我的心情也因為遇見你上升一層。"
+      },
+      {
+        "role": "user",
+        "content": "往下呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "就當送你到一樓，平安抵達也很好。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-06",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "看到電梯想到喜歡的人，怎麼開個溫柔的玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "電梯往上時，我的心情也因為遇見你上升一層。"
+      },
+      {
+        "role": "user",
+        "content": "往下呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "就當送你到一樓，平安抵達也很好。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-07",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "日常聊到襪子，給我一句小小的土味情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "襪子有一雙，我們的聊天也剛好一來一往。"
+      },
+      {
+        "role": "user",
+        "content": "少一隻怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先找洗衣機後面，別讓我的情話耽誤正事。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-07",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "看到襪子想到喜歡的人，怎麼開個溫柔的玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "襪子有一雙，我們的聊天也剛好一來一往。"
+      },
+      {
+        "role": "user",
+        "content": "少一隻怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先找洗衣機後面，別讓我的情話耽誤正事。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-08",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "日常聊到超市，給我一句小小的土味情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "超市有購物清單，我今天只想順手買一點能和你分享的零食。"
+      },
+      {
+        "role": "user",
+        "content": "買錯口味？"
+      },
+      {
+        "role": "assistant",
+        "content": "就換你挑，你的喜好比我的猜測準。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-08",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "看到超市想到喜歡的人，怎麼開個溫柔的玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "超市有購物清單，我今天只想順手買一點能和你分享的零食。"
+      },
+      {
+        "role": "user",
+        "content": "買錯口味？"
+      },
+      {
+        "role": "assistant",
+        "content": "就換你挑，你的喜好比我的猜測準。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-09",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "日常聊到斑馬線，給我一句小小的土味情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "斑馬線要看燈，想靠近你也要先看你願不願意。"
+      },
+      {
+        "role": "user",
+        "content": "綠燈了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就一起慢慢走，安全第一。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-09",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "看到斑馬線想到喜歡的人，怎麼開個溫柔的玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "斑馬線要看燈，想靠近你也要先看你願不願意。"
+      },
+      {
+        "role": "user",
+        "content": "綠燈了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就一起慢慢走，安全第一。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-10",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "日常聊到遙控器，給我一句小小的土味情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "遙控器能換台，和你聊天讓我不想一直滑手機找節目。"
+      },
+      {
+        "role": "user",
+        "content": "沒話聊怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "一起看一集也好，安靜不會扣分。"
+      }
+    ]
+  },
+  {
+    "seed_id": "日常-10",
+    "scenario": "日常",
+    "messages": [
+      {
+        "role": "user",
+        "content": "看到遙控器想到喜歡的人，怎麼開個溫柔的玩笑？"
+      },
+      {
+        "role": "assistant",
+        "content": "遙控器能換台，和你聊天讓我不想一直滑手機找節目。"
+      },
+      {
+        "role": "user",
+        "content": "沒話聊怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "一起看一集也好，安靜不會扣分。"
+      }
+    ]
+  }
+]

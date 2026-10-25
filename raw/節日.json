@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "節日-01",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "節日聊到卡片，幫我想一句不俗套的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "卡片有空白處，剛好寫下：謝謝你讓平常日也有值得期待的事。"
+      },
+      {
+        "role": "user",
+        "content": "寫不下怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "留到見面慢慢說，字數限制管不到真心。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-01",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想在節日用卡片傳訊息，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "卡片有空白處，剛好寫下：謝謝你讓平常日也有值得期待的事。"
+      },
+      {
+        "role": "user",
+        "content": "寫不下怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "留到見面慢慢說，字數限制管不到真心。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-02",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "節日聊到煙火，幫我想一句不俗套的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "煙火很亮，但我更喜歡散場後還能跟你說話的平靜。"
+      },
+      {
+        "role": "user",
+        "content": "沒有煙火呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就散步看路燈，節日不用靠爆炸才熱鬧。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-02",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想在節日用煙火傳訊息，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "煙火很亮，但我更喜歡散場後還能跟你說話的平靜。"
+      },
+      {
+        "role": "user",
+        "content": "沒有煙火呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就散步看路燈，節日不用靠爆炸才熱鬧。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-03",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "節日聊到禮物盒，幫我想一句不俗套的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "禮物盒有緞帶，我想送你的其實是一段不趕時間的相處。"
+      },
+      {
+        "role": "user",
+        "content": "盒子是空的？"
+      },
+      {
+        "role": "assistant",
+        "content": "裡面有邀請，你可以自由決定要不要收。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-03",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想在節日用禮物盒傳訊息，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "禮物盒有緞帶，我想送你的其實是一段不趕時間的相處。"
+      },
+      {
+        "role": "user",
+        "content": "盒子是空的？"
+      },
+      {
+        "role": "assistant",
+        "content": "裡面有邀請，你可以自由決定要不要收。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-04",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "節日聊到燈籠，幫我想一句不俗套的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "燈籠照亮一小段街，我想祝你的日子也有舒服的光。"
+      },
+      {
+        "role": "user",
+        "content": "燈熄了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就回家休息，明天再把光點起來。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-04",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想在節日用燈籠傳訊息，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "燈籠照亮一小段街，我想祝你的日子也有舒服的光。"
+      },
+      {
+        "role": "user",
+        "content": "燈熄了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就回家休息，明天再把光點起來。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-05",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "節日聊到月餅，幫我想一句不俗套的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "月餅有餡，我的祝福有點甜：希望你今天團圓又自在。"
+      },
+      {
+        "role": "user",
+        "content": "我怕太甜。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就配茶，祝福也調成你喜歡的甜度。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-05",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想在節日用月餅傳訊息，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "月餅有餡，我的祝福有點甜：希望你今天團圓又自在。"
+      },
+      {
+        "role": "user",
+        "content": "我怕太甜。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就配茶，祝福也調成你喜歡的甜度。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-06",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "節日聊到春聯，幫我想一句不俗套的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "春聯貼在門上，我想把平安和快樂都貼進你的新年。"
+      },
+      {
+        "role": "user",
+        "content": "貼歪了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "一起扶正；新的一年也不用事事完美。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-06",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想在節日用春聯傳訊息，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "春聯貼在門上，我想把平安和快樂都貼進你的新年。"
+      },
+      {
+        "role": "user",
+        "content": "貼歪了怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "一起扶正；新的一年也不用事事完美。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-07",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "節日聊到聖誕襪，幫我想一句不俗套的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "聖誕襪能裝禮物，我的襪子只能裝今天很想見你的心情。"
+      },
+      {
+        "role": "user",
+        "content": "襪子破洞呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就先補襪子，別讓腳冷到；祝福照樣送到。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-07",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想在節日用聖誕襪傳訊息，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "聖誕襪能裝禮物，我的襪子只能裝今天很想見你的心情。"
+      },
+      {
+        "role": "user",
+        "content": "襪子破洞呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "那就先補襪子，別讓腳冷到；祝福照樣送到。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-08",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "節日聊到倒數，幫我想一句不俗套的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "倒數十秒很熱鬧，我最想說的卻是明年也祝你開心。"
+      },
+      {
+        "role": "user",
+        "content": "倒數錯了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "再數一次，快樂又不怕重播。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-08",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想在節日用倒數傳訊息，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "倒數十秒很熱鬧，我最想說的卻是明年也祝你開心。"
+      },
+      {
+        "role": "user",
+        "content": "倒數錯了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "再數一次，快樂又不怕重播。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-09",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "節日聊到花束，幫我想一句不俗套的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "花會謝，所以我更想送你能記住的好好相處。"
+      },
+      {
+        "role": "user",
+        "content": "不送花了？"
+      },
+      {
+        "role": "assistant",
+        "content": "如果你喜歡，還是送；但不讓花替我做全部的功課。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-09",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想在節日用花束傳訊息，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "花會謝，所以我更想送你能記住的好好相處。"
+      },
+      {
+        "role": "user",
+        "content": "不送花了？"
+      },
+      {
+        "role": "assistant",
+        "content": "如果你喜歡，還是送；但不讓花替我做全部的功課。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-10",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "節日聊到生日蠟燭，幫我想一句不俗套的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "蠟燭可以吹熄，我對你的祝福想留得久一點。"
+      },
+      {
+        "role": "user",
+        "content": "願望可以說嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "你想說我就聽；不想說，我也祝它成真。"
+      }
+    ]
+  },
+  {
+    "seed_id": "節日-10",
+    "scenario": "節日",
+    "messages": [
+      {
+        "role": "user",
+        "content": "想在節日用生日蠟燭傳訊息，怎麼說？"
+      },
+      {
+        "role": "assistant",
+        "content": "蠟燭可以吹熄，我對你的祝福想留得久一點。"
+      },
+      {
+        "role": "user",
+        "content": "願望可以說嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "你想說我就聽；不想說，我也祝它成真。"
+      }
+    ]
+  }
+]

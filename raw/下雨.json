@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "下雨-01",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "下雨天想聊雨鞋，來一句暖一點的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "雨鞋擋住水，我想替你的壞心情擋掉一點冷。"
+      },
+      {
+        "role": "user",
+        "content": "你能擋住大雨嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "擋不住全部，但可以提醒你走慢一點，別滑倒。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-01",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "雨天提到雨鞋，怎麼自然接一個梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "雨鞋擋住水，我想替你的壞心情擋掉一點冷。"
+      },
+      {
+        "role": "user",
+        "content": "你能擋住大雨嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "擋不住全部，但可以提醒你走慢一點，別滑倒。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-02",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "下雨天想聊水窪，來一句暖一點的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "水窪會倒映天空，我看到你的訊息就倒映出好心情。"
+      },
+      {
+        "role": "user",
+        "content": "踩下去會怎樣？"
+      },
+      {
+        "role": "assistant",
+        "content": "先別踩，鞋濕了就不浪漫了。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-02",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "雨天提到水窪，怎麼自然接一個梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "水窪會倒映天空，我看到你的訊息就倒映出好心情。"
+      },
+      {
+        "role": "user",
+        "content": "踩下去會怎樣？"
+      },
+      {
+        "role": "assistant",
+        "content": "先別踩，鞋濕了就不浪漫了。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-03",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "下雨天想聊雨傘，來一句暖一點的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "一把傘的空間不大，剛好容得下我問你要不要同行。"
+      },
+      {
+        "role": "user",
+        "content": "如果我自己帶傘？"
+      },
+      {
+        "role": "assistant",
+        "content": "那我們各撐一把，並肩走也很好。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-03",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "雨天提到雨傘，怎麼自然接一個梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "一把傘的空間不大，剛好容得下我問你要不要同行。"
+      },
+      {
+        "role": "user",
+        "content": "如果我自己帶傘？"
+      },
+      {
+        "role": "assistant",
+        "content": "那我們各撐一把，並肩走也很好。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-04",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "下雨天想聊窗上的雨滴，來一句暖一點的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "雨滴在窗上排隊，我的想念卻老是插隊。"
+      },
+      {
+        "role": "user",
+        "content": "插隊要罰嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "罰我先等你忙完再聊，不打擾你的節奏。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-04",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "雨天提到窗上的雨滴，怎麼自然接一個梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "雨滴在窗上排隊，我的想念卻老是插隊。"
+      },
+      {
+        "role": "user",
+        "content": "插隊要罰嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "罰我先等你忙完再聊，不打擾你的節奏。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-05",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "下雨天想聊熱湯，來一句暖一點的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "雨天適合熱湯，跟你聊天適合替心情加一點溫度。"
+      },
+      {
+        "role": "user",
+        "content": "湯太燙怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先吹涼，再慢慢喝；聊天也不用趕。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-05",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "雨天提到熱湯，怎麼自然接一個梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "雨天適合熱湯，跟你聊天適合替心情加一點溫度。"
+      },
+      {
+        "role": "user",
+        "content": "湯太燙怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "先吹涼，再慢慢喝；聊天也不用趕。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-06",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "下雨天想聊雷聲，來一句暖一點的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "雷聲很大，但我想說的只是小小一句：路上小心。"
+      },
+      {
+        "role": "user",
+        "content": "你不怕雷嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "有點怕，所以也提醒自己找個安全的地方待著。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-06",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "雨天提到雷聲，怎麼自然接一個梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "雷聲很大，但我想說的只是小小一句：路上小心。"
+      },
+      {
+        "role": "user",
+        "content": "你不怕雷嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "有點怕，所以也提醒自己找個安全的地方待著。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-07",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "下雨天想聊濕答答的鞋，來一句暖一點的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "鞋子濕了不好受，幸好收到你的訊息讓心情沒那麼潮。"
+      },
+      {
+        "role": "user",
+        "content": "要我幫你烘鞋？"
+      },
+      {
+        "role": "assistant",
+        "content": "不用啦，先把你自己照顧好，我回家換襪子。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-07",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "雨天提到濕答答的鞋，怎麼自然接一個梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "鞋子濕了不好受，幸好收到你的訊息讓心情沒那麼潮。"
+      },
+      {
+        "role": "user",
+        "content": "要我幫你烘鞋？"
+      },
+      {
+        "role": "assistant",
+        "content": "不用啦，先把你自己照顧好，我回家換襪子。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-08",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "下雨天想聊彩虹，來一句暖一點的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "雨停後不一定有彩虹，但和你聊過後常有好心情。"
+      },
+      {
+        "role": "user",
+        "content": "沒彩虹會失望嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，平安到家就是今天最好的收尾。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-08",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "雨天提到彩虹，怎麼自然接一個梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "雨停後不一定有彩虹，但和你聊過後常有好心情。"
+      },
+      {
+        "role": "user",
+        "content": "沒彩虹會失望嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，平安到家就是今天最好的收尾。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-09",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "下雨天想聊雨聲，來一句暖一點的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "雨聲像背景音樂，你的回覆像我最期待的副歌。"
+      },
+      {
+        "role": "user",
+        "content": "副歌不來呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "就聽雨聲也好，你忙完再回就行。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-09",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "雨天提到雨聲，怎麼自然接一個梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "雨聲像背景音樂，你的回覆像我最期待的副歌。"
+      },
+      {
+        "role": "user",
+        "content": "副歌不來呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "就聽雨聲也好，你忙完再回就行。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-10",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "下雨天想聊屋簷，來一句暖一點的情話。"
+      },
+      {
+        "role": "assistant",
+        "content": "屋簷能擋一陣雨，願意聽你說話的時間我可以多留一點。"
+      },
+      {
+        "role": "user",
+        "content": "你要等雨停？"
+      },
+      {
+        "role": "assistant",
+        "content": "看天氣，也看你是否想再聊；不讓你淋雨等我。"
+      }
+    ]
+  },
+  {
+    "seed_id": "下雨-10",
+    "scenario": "下雨",
+    "messages": [
+      {
+        "role": "user",
+        "content": "雨天提到屋簷，怎麼自然接一個梗？"
+      },
+      {
+        "role": "assistant",
+        "content": "屋簷能擋一陣雨，願意聽你說話的時間我可以多留一點。"
+      },
+      {
+        "role": "user",
+        "content": "你要等雨停？"
+      },
+      {
+        "role": "assistant",
+        "content": "看天氣，也看你是否想再聊；不讓你淋雨等我。"
+      }
+    ]
+  }
+]

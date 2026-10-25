@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "遠距-01",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "遠距離聊到時差，想說一句暖心的。"
+      },
+      {
+        "role": "assistant",
+        "content": "時差把時間切兩半，我還是能挑一段你方便的時間說晚安。"
+      },
+      {
+        "role": "user",
+        "content": "如果時間對不上？"
+      },
+      {
+        "role": "assistant",
+        "content": "留語音也好，等彼此有空再聽。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-01",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們不在同一個城市，用時差接一個不黏人的梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "時差把時間切兩半，我還是能挑一段你方便的時間說晚安。"
+      },
+      {
+        "role": "user",
+        "content": "如果時間對不上？"
+      },
+      {
+        "role": "assistant",
+        "content": "留語音也好，等彼此有空再聽。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-02",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "遠距離聊到車票，想說一句暖心的。"
+      },
+      {
+        "role": "assistant",
+        "content": "車票有出發和到站，我們也可以一起期待下一次見面。"
+      },
+      {
+        "role": "user",
+        "content": "車票還沒買。"
+      },
+      {
+        "role": "assistant",
+        "content": "先挑彼此方便的日子，不讓期待變成壓力。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-02",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們不在同一個城市，用車票接一個不黏人的梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "車票有出發和到站，我們也可以一起期待下一次見面。"
+      },
+      {
+        "role": "user",
+        "content": "車票還沒買。"
+      },
+      {
+        "role": "assistant",
+        "content": "先挑彼此方便的日子，不讓期待變成壓力。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-03",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "遠距離聊到視訊，想說一句暖心的。"
+      },
+      {
+        "role": "assistant",
+        "content": "視訊畫面會卡，想念不會；但你忙的時候我會先等。"
+      },
+      {
+        "role": "user",
+        "content": "聲音斷了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "改傳文字，別讓網路替我們吵架。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-03",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們不在同一個城市，用視訊接一個不黏人的梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "視訊畫面會卡，想念不會；但你忙的時候我會先等。"
+      },
+      {
+        "role": "user",
+        "content": "聲音斷了呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "改傳文字，別讓網路替我們吵架。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-04",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "遠距離聊到地圖，想說一句暖心的。"
+      },
+      {
+        "role": "assistant",
+        "content": "地圖上隔著幾個城市，我們聊天時卻像坐在同一張桌旁。"
+      },
+      {
+        "role": "user",
+        "content": "地圖縮小才看得到。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就一起規劃下一次見面的路線。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-04",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們不在同一個城市，用地圖接一個不黏人的梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "地圖上隔著幾個城市，我們聊天時卻像坐在同一張桌旁。"
+      },
+      {
+        "role": "user",
+        "content": "地圖縮小才看得到。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就一起規劃下一次見面的路線。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-05",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "遠距離聊到明信片，想說一句暖心的。"
+      },
+      {
+        "role": "assistant",
+        "content": "明信片走得慢，剛好讓一句想你慢慢抵達。"
+      },
+      {
+        "role": "user",
+        "content": "比訊息慢太多了。"
+      },
+      {
+        "role": "assistant",
+        "content": "訊息先到，明信片當驚喜，兩種都不催你回。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-05",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們不在同一個城市，用明信片接一個不黏人的梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "明信片走得慢，剛好讓一句想你慢慢抵達。"
+      },
+      {
+        "role": "user",
+        "content": "比訊息慢太多了。"
+      },
+      {
+        "role": "assistant",
+        "content": "訊息先到，明信片當驚喜，兩種都不催你回。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-06",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "遠距離聊到月亮，想說一句暖心的。"
+      },
+      {
+        "role": "assistant",
+        "content": "我們在不同地方看月亮，至少抬頭的動作可以同步。"
+      },
+      {
+        "role": "user",
+        "content": "今天看不到月亮。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就同步喝一杯水，照顧自己也是我們的默契。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-06",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們不在同一個城市，用月亮接一個不黏人的梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "我們在不同地方看月亮，至少抬頭的動作可以同步。"
+      },
+      {
+        "role": "user",
+        "content": "今天看不到月亮。"
+      },
+      {
+        "role": "assistant",
+        "content": "那就同步喝一杯水，照顧自己也是我們的默契。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-07",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "遠距離聊到訊號，想說一句暖心的。"
+      },
+      {
+        "role": "assistant",
+        "content": "訊號偶爾不穩，不代表我們沒有在彼此心裡。"
+      },
+      {
+        "role": "user",
+        "content": "那你沒回訊息時呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "我會提前說忙碌，不用沉默讓你猜。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-07",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們不在同一個城市，用訊號接一個不黏人的梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "訊號偶爾不穩，不代表我們沒有在彼此心裡。"
+      },
+      {
+        "role": "user",
+        "content": "那你沒回訊息時呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "我會提前說忙碌，不用沉默讓你猜。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-08",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "遠距離聊到照片，想說一句暖心的。"
+      },
+      {
+        "role": "assistant",
+        "content": "照片讓我看到你的日常，但更想聽你說那天發生什麼。"
+      },
+      {
+        "role": "user",
+        "content": "每天都要傳嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不用，想分享再分享，生活不必交作業。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-08",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們不在同一個城市，用照片接一個不黏人的梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "照片讓我看到你的日常，但更想聽你說那天發生什麼。"
+      },
+      {
+        "role": "user",
+        "content": "每天都要傳嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不用，想分享再分享，生活不必交作業。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-09",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "遠距離聊到包裹，想說一句暖心的。"
+      },
+      {
+        "role": "assistant",
+        "content": "包裹可以寄零食，我更想寄一點你需要時能用的鼓勵。"
+      },
+      {
+        "role": "user",
+        "content": "鼓勵會過期嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，想聽的時候我再說一次。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-09",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們不在同一個城市，用包裹接一個不黏人的梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "包裹可以寄零食，我更想寄一點你需要時能用的鼓勵。"
+      },
+      {
+        "role": "user",
+        "content": "鼓勵會過期嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，想聽的時候我再說一次。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-10",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "遠距離聊到倒數日，想說一句暖心的。"
+      },
+      {
+        "role": "assistant",
+        "content": "倒數見面很甜，但今天也值得好好過，不只等那一天。"
+      },
+      {
+        "role": "user",
+        "content": "倒數太久了。"
+      },
+      {
+        "role": "assistant",
+        "content": "那我們安排小小的固定通話，讓等待有節奏。"
+      }
+    ]
+  },
+  {
+    "seed_id": "遠距-10",
+    "scenario": "遠距",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我們不在同一個城市，用倒數日接一個不黏人的梗。"
+      },
+      {
+        "role": "assistant",
+        "content": "倒數見面很甜，但今天也值得好好過，不只等那一天。"
+      },
+      {
+        "role": "user",
+        "content": "倒數太久了。"
+      },
+      {
+        "role": "assistant",
+        "content": "那我們安排小小的固定通話，讓等待有節奏。"
+      }
+    ]
+  }
+]

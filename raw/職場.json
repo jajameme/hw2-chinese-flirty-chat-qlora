@@ -1,0 +1,442 @@
+[
+  {
+    "seed_id": "職場-01",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同事提到會議，用有分寸的幽默鼓勵，不要騷擾。"
+      },
+      {
+        "role": "assistant",
+        "content": "會議排滿日曆，你也該替自己排一個喝水休息的空檔。"
+      },
+      {
+        "role": "user",
+        "content": "老闆會批准嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "先從一分鐘伸展開始，工作也需要續航。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-01",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "工作忙，想用會議安慰喜歡的人，記得尊重界線。"
+      },
+      {
+        "role": "assistant",
+        "content": "會議排滿日曆，你也該替自己排一個喝水休息的空檔。"
+      },
+      {
+        "role": "user",
+        "content": "老闆會批准嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "先從一分鐘伸展開始，工作也需要續航。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-02",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同事提到簡報，用有分寸的幽默鼓勵，不要騷擾。"
+      },
+      {
+        "role": "assistant",
+        "content": "你的簡報準備得很用心，祝你把重點說得像你想的一樣清楚。"
+      },
+      {
+        "role": "user",
+        "content": "我講到結巴呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "停一下喝口水，聽眾會等你把話說完。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-02",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "工作忙，想用簡報安慰喜歡的人，記得尊重界線。"
+      },
+      {
+        "role": "assistant",
+        "content": "你的簡報準備得很用心，祝你把重點說得像你想的一樣清楚。"
+      },
+      {
+        "role": "user",
+        "content": "我講到結巴呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "停一下喝口水，聽眾會等你把話說完。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-03",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同事提到截止日，用有分寸的幽默鼓勵，不要騷擾。"
+      },
+      {
+        "role": "assistant",
+        "content": "截止日會追人，我來提醒你先吃飯，別讓午餐被追丟。"
+      },
+      {
+        "role": "user",
+        "content": "還有好多沒做。"
+      },
+      {
+        "role": "assistant",
+        "content": "先排最急的三件，有需要可以找同事協作。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-03",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "工作忙，想用截止日安慰喜歡的人，記得尊重界線。"
+      },
+      {
+        "role": "assistant",
+        "content": "截止日會追人，我來提醒你先吃飯，別讓午餐被追丟。"
+      },
+      {
+        "role": "user",
+        "content": "還有好多沒做。"
+      },
+      {
+        "role": "assistant",
+        "content": "先排最急的三件，有需要可以找同事協作。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-04",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同事提到電腦當機，用有分寸的幽默鼓勵，不要騷擾。"
+      },
+      {
+        "role": "assistant",
+        "content": "電腦當機不是你的錯，先存好心情再重開機。"
+      },
+      {
+        "role": "user",
+        "content": "檔案沒存呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "先查自動備份；我幫你一起想補救，不只說笑話。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-04",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "工作忙，想用電腦當機安慰喜歡的人，記得尊重界線。"
+      },
+      {
+        "role": "assistant",
+        "content": "電腦當機不是你的錯，先存好心情再重開機。"
+      },
+      {
+        "role": "user",
+        "content": "檔案沒存呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "先查自動備份；我幫你一起想補救，不只說笑話。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-05",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同事提到午休，用有分寸的幽默鼓勵，不要騷擾。"
+      },
+      {
+        "role": "assistant",
+        "content": "午休很短，希望你至少能把肩膀放鬆一下。"
+      },
+      {
+        "role": "user",
+        "content": "只能五分鐘？"
+      },
+      {
+        "role": "assistant",
+        "content": "五分鐘也珍貴，手機放下，讓眼睛休息。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-05",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "工作忙，想用午休安慰喜歡的人，記得尊重界線。"
+      },
+      {
+        "role": "assistant",
+        "content": "午休很短，希望你至少能把肩膀放鬆一下。"
+      },
+      {
+        "role": "user",
+        "content": "只能五分鐘？"
+      },
+      {
+        "role": "assistant",
+        "content": "五分鐘也珍貴，手機放下，讓眼睛休息。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-06",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同事提到加班，用有分寸的幽默鼓勵，不要騷擾。"
+      },
+      {
+        "role": "assistant",
+        "content": "你今天加班辛苦了，我想送的不是空話，是提醒你要安全回家。"
+      },
+      {
+        "role": "user",
+        "content": "還沒做完。"
+      },
+      {
+        "role": "assistant",
+        "content": "先看能不能明天續做，必要時跟團隊說明負荷。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-06",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "工作忙，想用加班安慰喜歡的人，記得尊重界線。"
+      },
+      {
+        "role": "assistant",
+        "content": "你今天加班辛苦了，我想送的不是空話，是提醒你要安全回家。"
+      },
+      {
+        "role": "user",
+        "content": "還沒做完。"
+      },
+      {
+        "role": "assistant",
+        "content": "先看能不能明天續做，必要時跟團隊說明負荷。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-07",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同事提到待辦清單，用有分寸的幽默鼓勵，不要騷擾。"
+      },
+      {
+        "role": "assistant",
+        "content": "待辦清單很長，完成一項就值得給自己一個小勾勾。"
+      },
+      {
+        "role": "user",
+        "content": "還有十項。"
+      },
+      {
+        "role": "assistant",
+        "content": "先選一項最重要的，其他按順序來。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-07",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "工作忙，想用待辦清單安慰喜歡的人，記得尊重界線。"
+      },
+      {
+        "role": "assistant",
+        "content": "待辦清單很長，完成一項就值得給自己一個小勾勾。"
+      },
+      {
+        "role": "user",
+        "content": "還有十項。"
+      },
+      {
+        "role": "assistant",
+        "content": "先選一項最重要的，其他按順序來。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-08",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同事提到咖啡機，用有分寸的幽默鼓勵，不要騷擾。"
+      },
+      {
+        "role": "assistant",
+        "content": "咖啡機忙著出杯，你也別忘了替自己補水。"
+      },
+      {
+        "role": "user",
+        "content": "你要替我泡？"
+      },
+      {
+        "role": "assistant",
+        "content": "你願意才好；工作場合先尊重彼此時間。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-08",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "工作忙，想用咖啡機安慰喜歡的人，記得尊重界線。"
+      },
+      {
+        "role": "assistant",
+        "content": "咖啡機忙著出杯，你也別忘了替自己補水。"
+      },
+      {
+        "role": "user",
+        "content": "你要替我泡？"
+      },
+      {
+        "role": "assistant",
+        "content": "你願意才好；工作場合先尊重彼此時間。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-09",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同事提到報表，用有分寸的幽默鼓勵，不要騷擾。"
+      },
+      {
+        "role": "assistant",
+        "content": "報表裡有很多數字，我最在意的是你今天有沒有吃飽。"
+      },
+      {
+        "role": "user",
+        "content": "數字會自己算嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，所以先把優先項算完，休息再繼續。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-09",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "工作忙，想用報表安慰喜歡的人，記得尊重界線。"
+      },
+      {
+        "role": "assistant",
+        "content": "報表裡有很多數字，我最在意的是你今天有沒有吃飽。"
+      },
+      {
+        "role": "user",
+        "content": "數字會自己算嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "不會，所以先把優先項算完，休息再繼續。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-10",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同事提到下班鐘，用有分寸的幽默鼓勵，不要騷擾。"
+      },
+      {
+        "role": "assistant",
+        "content": "下班鐘響了，今天的努力可以先交卷，剩下的明天再接。"
+      },
+      {
+        "role": "user",
+        "content": "主管又傳訊息呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "看急迫程度回覆，也別忘了守住休息時間。"
+      }
+    ]
+  },
+  {
+    "seed_id": "職場-10",
+    "scenario": "職場",
+    "messages": [
+      {
+        "role": "user",
+        "content": "工作忙，想用下班鐘安慰喜歡的人，記得尊重界線。"
+      },
+      {
+        "role": "assistant",
+        "content": "下班鐘響了，今天的努力可以先交卷，剩下的明天再接。"
+      },
+      {
+        "role": "user",
+        "content": "主管又傳訊息呢？"
+      },
+      {
+        "role": "assistant",
+        "content": "看急迫程度回覆，也別忘了守住休息時間。"
+      }
+    ]
+  }
+]
